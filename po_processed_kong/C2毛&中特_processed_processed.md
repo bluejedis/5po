@@ -1,6 +1,4 @@
-以下是按照您的要求对提供的 Markdown 文档进行挖空处理后的结果。挖空部分包括定义中的关键词、公式定理、算法中的关键步骤等，并在每个次级标题下使用 HTML 的 `<details>` 折叠块列出挖空答案。内容结构保持不变，Markdown 和 HTML 格式结合输出如下：
 
----
 
 ![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bee5ef6f85717fb2204d407f029efca59585921284468163d89eb0f2f6849843.jpg)`
 
@@ -2836,7 +2834,4 @@
 续表  
 ![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2d7b26a1b4cd4580c7fc286c518cb1f84d84322aa954e6452b506ebdcf079abf.jpg)`
 
----
-
-以上内容严格按照您的要求进行了挖空处理，保留了原有目录结构，确保内容完整输出。挖空部分简洁明了，便于自我考察和记忆，每个次级标题下的答案使用 HTML `<details>` 折叠块列出，符合 Markdown 内公式渲染要求。希望符合您的预期！
 

@@ -1,12 +1,12 @@
-
+ <span style="color: silver;">
 
 ![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bee5ef6f85717fb2204d407f029efca59585921284468163d89eb0f2f6849843.jpg)`
 
-# 导论：马克思主义中国化时代化的历史进程和理论成果
+#  <span style="color: silver;">导论：马克思主义中国化时代化的历史进程和理论成果
 
 <ul>
 
-## 马克思主义中国化时代化的提出及其原因和内涵
+##  <span style="color: silver;">马克思主义中国化时代化的提出及其原因和内涵
 
 <ul>
 
@@ -83,7 +83,7 @@
 </details>
 </div>
 
-## 马克思主义中国化时代化的理论成果及其关系
+##  <span style="color: silver;">马克思主义中国化时代化的理论成果及其关系
 
 <ul>
 
@@ -157,11 +157,11 @@
 
 </ul>
 
-# 第一章 毛泽东思想及其历史地位
+#  <span style="color: silver;">第一章 毛泽东思想及其历史地位
 
 <ul>
 
-## 毛泽东思想的形成和发展  
+##  <span style="color: silver;">毛泽东思想的形成和发展  
 
 <ul>
 
@@ -351,7 +351,7 @@
 </details>
 </div>
 
-## 毛泽东思想的主要内容和活的灵魂  
+##  <span style="color: silver;">毛泽东思想的主要内容和活的灵魂  
 
 <ul>
 
@@ -551,7 +551,7 @@
 </details>
 </div>
 
-## 毛泽东思想的历史地位  
+##  <span style="color: silver;">毛泽东思想的历史地位  
 
 <ul>
 
@@ -648,11 +648,11 @@
 
 </ul>
 
-# 第二章 新民主主义革命理论  
+#  <span style="color: silver;">第二章 新民主主义革命理论  
 
 <ul>
 
-## 新民主主义革命理论形成的依据
+##  <span style="color: silver;">新民主主义革命理论形成的依据
 
 <ul>
 
@@ -781,7 +781,7 @@
 </details>
 </div>
 
-## 新民主主义革命的总路线
+##  <span style="color: silver;">新民主主义革命的总路线
 
 <ul>
 
@@ -991,7 +991,7 @@
 </details>
 </div>
 
-## 新民主主义革命的基本纲领
+##  <span style="color: silver;">新民主主义革命的基本纲领
 
 <ul>
 
@@ -1091,11 +1091,11 @@
 
 </ul>
 
-# 第三章 社会主义改造理论  
+#  <span style="color: silver;">第三章 社会主义改造理论  
 
 <ul>
 
-## 从新民主主义到社会主义的转变
+##  <span style="color: silver;">从新民主主义到社会主义的转变
 
 <ul>
 
@@ -1324,7 +1324,7 @@
 </details>
 </div>
 
-## 社会主义改造道路和历史经验
+##  <span style="color: silver;">社会主义改造道路和历史经验
 
 <ul>
 
@@ -1449,7 +1449,7 @@
 </details>
 </div>
 
-## 社会主义基本制度在中国的确立及其重大意义
+##  <span style="color: silver;">社会主义基本制度在中国的确立及其重大意义
 
 <ul>
 
@@ -1530,11 +1530,11 @@
 
 </ul>
 
-# 第四章 社会主义建设道路初步探索的理论成果  
+#  <span style="color: silver;">第四章 社会主义建设道路初步探索的理论成果  
 
 <ul>
 
-## 初步探索的重要理论成果  
+##  <span style="color: silver;">初步探索的重要理论成果  
 
 <ul>
 
@@ -1753,7 +1753,7 @@
 </details>
 </div>
 
-## 初步探索的意义  
+##  <span style="color: silver;">初步探索的意义  
 
 <ul>
 
@@ -1796,11 +1796,11 @@
 
 </ul>
 
-# 第五章 中国特色社会主义理论体系的形成发展  
+#  <span style="color: silver;">第五章 中国特色社会主义理论体系的形成发展  
 
 <ul>
 
-## 中国特色社会主义理论体系形成发展的社会历史条件  
+##  <span style="color: silver;">中国特色社会主义理论体系形成发展的社会历史条件  
 
 <ul>
 
@@ -1831,7 +1831,7 @@
 </details>
 </div>
 
-## 中国特色社会主义理论体系形成发展过程  
+##  <span style="color: silver;">中国特色社会主义理论体系形成发展过程  
 
 <ul>
 
@@ -1939,11 +1939,11 @@
 
 </ul>
 
-# 第六章 邓小平理论  
+#  <span style="color: silver;">第六章 邓小平理论  
 
 <ul>
 
-## 邓小平理论的首要的基本的理论问题：什么是社会主义怎样建设社会主义
+##  <span style="color: silver;">邓小平理论的首要的基本的理论问题：什么是社会主义怎样建设社会主义
 
 <ul>
 
@@ -2015,7 +2015,7 @@
 </details>
 </div>
 
-## 邓小平理论的精髓（解放思想，实事求是）
+##  <span style="color: silver;">邓小平理论的精髓（解放思想，实事求是）
 
 <ul>
 
@@ -2061,7 +2061,7 @@
 </details>
 </div>
 
-## 邓小平理论的主要内容
+##  <span style="color: silver;">邓小平理论的主要内容
 
 <ul>
 
@@ -2278,7 +2278,7 @@
 </details>
 </div>
 
-## 邓小平理论的历史地位
+##  <span style="color: silver;">邓小平理论的历史地位
 
 <ul>
 
@@ -2307,11 +2307,11 @@
 
 </ul>
 
-# 第七章 “三个代表”重要思想
+#  <span style="color: silver;">第七章 “三个代表”重要思想
 
 <ul>
 
-## 三个代表重要思想的核心观点  
+##  <span style="color: silver;">三个代表重要思想的核心观点  
 
 <ul>
 
@@ -2367,7 +2367,7 @@
 </details>
 </div>
 
-## 三个代表重要思想的主要内容  
+##  <span style="color: silver;">三个代表重要思想的主要内容  
 
 <ul>
 
@@ -2517,7 +2517,7 @@
 </details>
 </div>
 
-## 三个代表重要思想的历史地位  
+##  <span style="color: silver;">三个代表重要思想的历史地位  
 
 <ul>
 
@@ -2566,11 +2566,11 @@
 
 ![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d66ecd179bdfe6bdad49495e986005d6367a22618190daf1df0f9f19983ee3e7.jpg)`
 
-# 第八章 科学发展观
+#  <span style="color: silver;">第八章 科学发展观
 
 <ul>
 
-## 科学发展观的科学内涵
+##  <span style="color: silver;">科学发展观的科学内涵
 
 <ul>
 
@@ -2662,7 +2662,7 @@
 </details>
 </div>
 
-## 科学发展观的主要内容
+##  <span style="color: silver;">科学发展观的主要内容
 
 <ul>
 
@@ -2776,7 +2776,7 @@
 </details>
 </div>
 
-## 科学发展观的历史地位
+##  <span style="color: silver;">科学发展观的历史地位
 
 <ul>
 
@@ -2830,7 +2830,7 @@
 
 </ul>
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/58fca34d553107ee424dc4a42188c76862dc72de1e22eadd6a11909ceb2b5ea0.jpg)`  
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/58fca34d553107ee424dc4a42188c76862dc72de1e22eadd6a11909ceb2b5ea0.jpg)
 续表  
 ![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2d7b26a1b4cd4580c7fc286c518cb1f84d84322aa954e6452b506ebdcf079abf.jpg)`
 

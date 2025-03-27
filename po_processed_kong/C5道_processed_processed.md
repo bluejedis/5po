@@ -1,8 +1,10 @@
-# 绪论：担当复兴大任成就时代新人  
+ <span style="color: silver;">
+ 
+#  <span style="color: silver;">绪论：担当复兴大任成就时代新人  
 
 <ul>
 
-## 努力成为堪当民族复兴重任的时代新人
+##  <span style="color: silver;">努力成为堪当民族复兴重任的时代新人
 
 <ul>
 
@@ -51,7 +53,7 @@
 </details>
 </div>
 
-## 思想道德和法律的相互关系
+##  <span style="color: silver;">思想道德和法律的相互关系
 
 <ul>
 
@@ -102,11 +104,11 @@
 
 </ul>
 
-# 第一章 领悟人生真谛 把握人生方向
+#  <span style="color: silver;">第一章 领悟人生真谛 把握人生方向
 
 <ul>
 
-## 人生观是对人生的总看法  
+##  <span style="color: silver;">人生观是对人生的总看法  
 
 <ul>
 
@@ -182,7 +184,7 @@
 </details>
 </div>
 
-## 正确的人生观  
+##  <span style="color: silver;">正确的人生观  
 
 <ul>
 
@@ -235,7 +237,7 @@
 </details>
 </div>
 
-## 创造有意义的人生  
+##  <span style="color: silver;">创造有意义的人生  
 
 <ul>
 
@@ -303,11 +305,11 @@
 
 </ul>
 
-# 第二章 追求远大理想 坚定崇高信念
+#  <span style="color: silver;">第二章 追求远大理想 坚定崇高信念
 
 <ul>
 
-## 理想信念的内涵及重要性  
+##  <span style="color: silver;">理想信念的内涵及重要性  
 
 <ul>
 
@@ -393,7 +395,7 @@
 </details>
 </div>
 
-## 科学把握理想与现实的辩证统一  
+##  <span style="color: silver;">科学把握理想与现实的辩证统一  
 
 <ul>
 
@@ -444,11 +446,11 @@
 
 </ul>
 
-# 第三章 继承优良传统 弘扬中国精神
+#  <span style="color: silver;">第三章 继承优良传统 弘扬中国精神
 
 <ul>
 
-## 崇尚精神是中华民族的优秀传统  
+##  <span style="color: silver;">崇尚精神是中华民族的优秀传统  
 
 <ul>
 
@@ -472,7 +474,7 @@
 </details>
 </div>
 
-## 中国精神的丰富内涵  
+##  <span style="color: silver;">中国精神的丰富内涵  
 
 <ul>
 
@@ -509,7 +511,7 @@
 </details>
 </div>
 
-## 实现中国梦必须弘扬中国精神  
+##  <span style="color: silver;">实现中国梦必须弘扬中国精神  
 
 <ul>
 
@@ -589,7 +591,7 @@
 </details>
 </div>
 
-## 做新时代的忠诚爱国者  
+##  <span style="color: silver;">做新时代的忠诚爱国者  
 
 <ul>
 
@@ -644,7 +646,7 @@
 </details>
 </div>
 
-## 让改革创新成为青春远航的动力  
+##  <span style="color: silver;">让改革创新成为青春远航的动力  
 
 <ul>
 
@@ -686,11 +688,11 @@
 
 </ul>
 
-# 第四章 明确价值要求践行价值准则  
+#  <span style="color: silver;">第四章 明确价值要求践行价值准则  
 
 <ul>
 
-## 价值观与核心价值观  
+##  <span style="color: silver;">价值观与核心价值观  
 
 <ul>
 
@@ -744,7 +746,7 @@
 </details>
 </div>
 
-## 社会主义核心价值观  
+##  <span style="color: silver;">社会主义核心价值观  
 
 <ul>
 
@@ -819,7 +821,7 @@
 </details>
 </div>
 
-## 社会主义核心价值观的显著特征
+##  <span style="color: silver;">社会主义核心价值观的显著特征
 
 <ul>
 
@@ -868,7 +870,7 @@
 </details>
 </div>
 
-## 积极践行社会主义核心价值观
+##  <span style="color: silver;">积极践行社会主义核心价值观
 
 <ul>
 
@@ -902,11 +904,11 @@
 
 </ul>
 
-# 第五章 遵守道德规范锤炼道德品格  
+#  <span style="color: silver;">第五章 遵守道德规范锤炼道德品格  
 
 <ul>
 
-## 坚持马克思主义道德观
+##  <span style="color: silver;">坚持马克思主义道德观
 
 <ul>
 
@@ -984,7 +986,7 @@
 </details>
 </div>
 
-## 社会主义道德的核心和原则
+##  <span style="color: silver;">社会主义道德的核心和原则
 
 <ul>
 
@@ -1036,7 +1038,7 @@
 </details>
 </div>
 
-## 吸收借鉴优秀道德成果
+##  <span style="color: silver;">吸收借鉴优秀道德成果
 
 <ul>
 
@@ -1133,7 +1135,7 @@
 </details>
 </div>
 
-## 把社会公德、职业道德、家庭美德、个人品德建设作为着力点
+##  <span style="color: silver;">把社会公德、职业道德、家庭美德、个人品德建设作为着力点
 
 <ul>
 
@@ -1270,11 +1272,11 @@
 
 </ul>
 
-# 第六章 学习法治思想提升法治素养  
+#  <span style="color: silver;">第六章 学习法治思想提升法治素养  
 
 <ul>
 
-## 社会主义法律的特征和运行  
+##  <span style="color: silver;">社会主义法律的特征和运行  
 
 <ul>
 
@@ -1351,7 +1353,7 @@
 </details>
 </div>
 
-## 全面依法治国的根本遵循习近平法治思想  
+##  <span style="color: silver;">全面依法治国的根本遵循习近平法治思想  
 
 <ul>
 
@@ -1409,7 +1411,7 @@
 </details>
 </div>
 
-## 坚持走中国特色社会主义法治道路
+##  <span style="color: silver;">坚持走中国特色社会主义法治道路
 
 <ul>
 
@@ -1470,7 +1472,7 @@
 </details>
 </div>
 
-## 建设法治中国
+##  <span style="color: silver;">建设法治中国
 
 <ul>
 
@@ -1520,7 +1522,7 @@
 </details>
 </div>
 
-## 维护宪法权威
+##  <span style="color: silver;">维护宪法权威
 
 <ul>
 
@@ -1578,7 +1580,7 @@
 </details>
 </div>
 
-## 培养社会主义法治思维
+##  <span style="color: silver;">培养社会主义法治思维
 
 <ul>
 
@@ -1636,7 +1638,7 @@
 </details>
 </div>
 
-## 依法行使权利与履行义务
+##  <span style="color: silver;">依法行使权利与履行义务
 
 <ul>
 

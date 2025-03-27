@@ -1,8 +1,10 @@
-# 导论
+ <span style="color: silver;">
+
+#  <span style="color: silver;">导论
 
 <ul>
 
-## 马克思主义的创立
+##  <span style="color: silver;">马克思主义的创立
 
 <ul>
 
@@ -105,7 +107,7 @@
 
 </ul>
 
-## 马克思主义的基本特征
+##  <span style="color: silver;">马克思主义的基本特征
 
 <ul>
 
@@ -163,7 +165,7 @@
 
 </ul>
 
-## 马克思主义的当代价值
+##  <span style="color: silver;">马克思主义的当代价值
 
 <ul>
 
@@ -216,11 +218,11 @@
 
 </ul>
 
-# 第一章 世界的物质性及发展规律
+#  <span style="color: silver;">第一章 世界的物质性及发展规律
 
 <ul>
 
-## 哲学基本问题及其内容
+##  <span style="color: silver;">哲学基本问题及其内容
 
 <ul>
 
@@ -341,7 +343,7 @@
 
 </ul>
 
-## 物质及其存在方式
+##  <span style="color: silver;">物质及其存在方式
 
 <ul>
 
@@ -573,7 +575,7 @@
 
 </ul>
 
-## 物质与意识的辩证关系
+##  <span style="color: silver;">物质与意识的辩证关系
 
 <ul>
 
@@ -859,7 +861,7 @@
 
 </ul>
 
-## 事物的普遍联系和变化发展
+##  <span style="color: silver;">事物的普遍联系和变化发展
 
 <ul>
 
@@ -1081,7 +1083,7 @@
 
 </ul>
 
-## 对立统一规律是事物发展的根本规律
+##  <span style="color: silver;">对立统一规律是事物发展的根本规律
 
 <ul>
 
@@ -1236,7 +1238,7 @@
 
 </ul>
 
-## 量变质变规律
+##  <span style="color: silver;">量变质变规律
 
 <ul>
 
@@ -1320,7 +1322,7 @@
 
 </ul>
 
-## 否定之否定规律
+##  <span style="color: silver;">否定之否定规律
 
 <ul>
 
@@ -1383,7 +1385,7 @@
 
 </ul>
 
-## 联系和发展的基本环节
+##  <span style="color: silver;">联系和发展的基本环节
 
 <ul>
 
@@ -1473,7 +1475,7 @@
 
 </ul>
 
-## 唯物辩证法是认识世界和改造世界的根本方法
+##  <span style="color: silver;">唯物辩证法是认识世界和改造世界的根本方法
 
 <ul>
 
@@ -1688,11 +1690,11 @@
 
 </ul>
 
-# 第二章 实践与认识及其发展规律  
+#  <span style="color: silver;">第二章 实践与认识及其发展规律  
 
 <ul>
 
-## 实践
+##  <span style="color: silver;">实践
 
 <ul>
 
@@ -1845,7 +1847,7 @@
 
 </ul>
 
-## 认识的本质与过程
+##  <span style="color: silver;">认识的本质与过程
 
 <ul>
 
@@ -1922,7 +1924,7 @@
 
 </ul>
 
-## 实践与认识的辩证运动及其规律
+##  <span style="color: silver;">实践与认识的辩证运动及其规律
 
 <ul>
 
@@ -1967,7 +1969,7 @@
 
 </ul>
 
-## 真理的客观性、绝对性和相对性
+##  <span style="color: silver;">真理的客观性、绝对性和相对性
 
 <ul>
 
@@ -2044,7 +2046,7 @@
 
 </ul>
 
-## 真理的检验标准
+##  <span style="color: silver;">真理的检验标准
 
 <ul>
 
@@ -2102,7 +2104,7 @@
 
 </ul>
 
-## 真理与价值的辩证统一
+##  <span style="color: silver;">真理与价值的辩证统一
 
 <ul>
 
@@ -2182,7 +2184,7 @@
 
 </ul>
 
-## 认识世界和改造世界
+##  <span style="color: silver;">认识世界和改造世界
 
 <ul>
 
@@ -2352,11 +2354,11 @@
 
 </ul>
 
-# 第三章 人类社会及其发展规律  
+#  <span style="color: silver;">第三章 人类社会及其发展规律  
 
 <ul>
 
-## 社会存在与社会意识
+##  <span style="color: silver;">社会存在与社会意识
 
 <ul>
 
@@ -2570,7 +2572,7 @@
 
 </ul>
 
-## 社会基本矛盾运动及其规律
+##  <span style="color: silver;">社会基本矛盾运动及其规律
 
 <ul>
 
@@ -2864,7 +2866,7 @@
 
 </ul>
 
-## 人类普遍交往与世界历史的形成发展
+##  <span style="color: silver;">人类普遍交往与世界历史的形成发展
 
 <ul>
 
@@ -2934,7 +2936,7 @@
 
 </ul>
 
-## 社会进步与社会形态更替
+##  <span style="color: silver;">社会进步与社会形态更替
 
 <ul>
 
@@ -3075,7 +3077,7 @@
 
 </ul>
 
-## 文明及其多样性
+##  <span style="color: silver;">文明及其多样性
 
 <ul>
 
@@ -3124,7 +3126,7 @@
 
 </ul>
 
-## 社会历史发展的动力
+##  <span style="color: silver;">社会历史发展的动力
 
 <ul>
 
@@ -3211,7 +3213,7 @@
 
 </ul>
 
-## 人民群众在历史发展中的作用
+##  <span style="color: silver;">人民群众在历史发展中的作用
 
 <ul>
 
@@ -3578,11 +3580,11 @@
 
 </ul>
 
-# 第四章 资本主义的本质及规律  
+#  <span style="color: silver;">第四章 资本主义的本质及规律  
 
 <ul>
 
-## 商品经济的形成和发展
+##  <span style="color: silver;">商品经济的形成和发展
 
 <ul>
 
@@ -3800,11 +3802,11 @@
 
 ---
 
-# 第五章 资本主义的发展及其趋势
+#  <span style="color: silver;">第五章 资本主义的发展及其趋势
 
 <ul>
 
-## 垄断资本主义的形成（资本主义从自由竞争到垄断）
+##  <span style="color: silver;">垄断资本主义的形成（资本主义从自由竞争到垄断）
 
 <ul>
 
@@ -4016,7 +4018,7 @@
 
 </ul>
 
-## 垄断资本主义的发展
+##  <span style="color: silver;">垄断资本主义的发展
 
 <ul>
 
@@ -4145,7 +4147,7 @@
 
 </ul>
 
-## 经济全球化及其影响
+##  <span style="color: silver;">经济全球化及其影响
 
 <ul>
 
@@ -4209,7 +4211,7 @@
 
 </ul>
 
-## 正确认识当代资本主义的新变化
+##  <span style="color: silver;">正确认识当代资本主义的新变化
 
 <ul>
 
@@ -4336,7 +4338,7 @@
 
 </ul>
 
-## 资本主义的历史地位和发展趋势
+##  <span style="color: silver;">资本主义的历史地位和发展趋势
 
 <ul>
 
@@ -4406,11 +4408,11 @@
 
 </ul>
 
-# 第六章 社会主义的发展及其规律  
+#  <span style="color: silver;">第六章 社会主义的发展及其规律  
 
 <ul>
 
-## 社会主义从空想到科学  
+##  <span style="color: silver;">社会主义从空想到科学  
 
 <ul>
 
@@ -4472,7 +4474,7 @@
 
 </ul>
 
-## 社会主义从理想到现实  
+##  <span style="color: silver;">社会主义从理想到现实  
 
 <ul>
 
@@ -4517,7 +4519,7 @@
 
 </ul>
 
-## 社会主义从一国到多国的发展  
+##  <span style="color: silver;">社会主义从一国到多国的发展  
 
 <ul>
 
@@ -4593,7 +4595,7 @@
 
 </ul>
 
-## 科学社会主义基本原则  
+##  <span style="color: silver;">科学社会主义基本原则  
 
 <ul>
 
@@ -4630,7 +4632,7 @@
 
 </ul>
 
-## 在实践中探索社会主义的发展规律  
+##  <span style="color: silver;">在实践中探索社会主义的发展规律  
 
 <ul>
 

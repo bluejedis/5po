@@ -4,7 +4,7 @@
 
 <ul>
 
-##  <span style="color: silver;">努力成为堪当民族复兴重任的时代新人
+##  <span style="color: silver;">努力成为堪当民族复兴重任的时代新人 ✓
 
 <ul>
 
@@ -39,21 +39,21 @@
 <details>
   <summary> </summary>
   <ul>
-    <li>崇高</li>
-    <li>使命</li>
+    <li>崇高 使命</li>
     <li>高尚</li>
     <li>高强</li>
     <li>天下兴亡、匹夫有责</li>
+    <br>
     <li>听党话</li>
     <li>脚踏实地</li>
     <li>善作善成</li>
     <li>新时代</li>
-    <li>全面建设社会主义现代化国家</li>
+    <li>全面建设 社会主义现代化国家</li>
   </ul>
 </details>
 </div>
 
-##  <span style="color: silver;">思想道德和法律的相互关系
+##  <span style="color: silver;">思想<span style="color: gray;">道德</span> 和 <span style="color: tan;">法律</span> 的相互关系 ✓
 
 <ul>
 
@@ -62,24 +62,23 @@
   * 都是____的重要组成部分，共同服务于一定的经济基础
 
 * 不同点
-  * 在____、调节方式、调节目标等方面存在很大不同
+  * 在____、<span style="color: LimeGreen;">调节</span>方式、<span style="color: LimeGreen;">调节</span>目标等方面存在很大不同
 
 >point:
 
-* 道德与法律的关系
-  * 道德调节的领域比____广
-  * 道德反对和谴责的行为，不一定是法律____的行为
-  * 法律禁止和制裁的行为，通常是道德____的行为
+* <span style="color: gray;">道德</span> 与<span style="color: tan;">法律</span> 的关系
+  * <span style="color: gray;">道德</span> <span style="color: LimeGreen;">调节</span>的领域比____广
+  * <span style="color: gray;">道德</span>  反对和谴责 的行为，不一定是<span style="color: tan;">法律</span> ____的行为
+  * <span style="color: tan;">法律</span>  禁止和制裁 的行为，通常是<span style="color: gray;">道德</span> ____的行为
 
 * 相互关系
-  * 思想道德建设为____提供思想指引和价值基础
-  * 法治建设为____提供制度支撑和法律保障
-  * 思想道德建设和法治建设的联系
+  * 思想<span style="color: gray;">道德</span> 建设为____提供思想指引和价值基础
+  * 法治建设为____提供制度支撑和<span style="color: tan;">法律</span> 保障
+  * 思想<span style="color: gray;">道德</span> 建设和法治建设的联系
     * 紧密联系，____、相互促进
     * 为党和国家事业提供____的思想基础、精神支撑和制度保障
-    * 坚持和发展中国特色社会主义需要发挥思想道德的____作用，以及法律的规范和强制作用
+    * 坚持和发展中国特色社会主义需要发挥思想<span style="color: gray;">道德</span> 的____作用，以及<span style="color: tan;">法律</span> 的规范和强制作用
   
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/55101abb9faa8bbc529005ce498fb047f81a08dcbb3644ed21f1b30d803319ff.jpg)
 
 </ul>
 
@@ -87,14 +86,16 @@
 <details>
   <summary> </summary>
   <ul>
-    <li>调节</li>
+    <li><span style="color: LimeGreen;">调节</span></li>
     <li>社会上层建筑</li>
-    <li>调节领域</li>
-    <li>法律</li>
+    <li><span style="color: LimeGreen;">调节</span>领域</li>
+    <br>
+    <li><span style="color: tan;">法律</span> </li>
     <li>禁止和制裁</li>
     <li>反对和谴责</li>
-    <li>法治建设</li>
-    <li>思想道德建设</li>
+    <br>
+    <li>法治 建设</li>
+    <li>思想<span style="color: gray;">道德</span>  建设</li>
     <li>相互补充</li>
     <li>坚实</li>
     <li>引领和教化</li>
@@ -104,22 +105,23 @@
 
 </ul>
 
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/55101abb9faa8bbc529005ce498fb047f81a08dcbb3644ed21f1b30d803319ff.jpg)
 #  <span style="color: silver;">第一章 领悟人生真谛 把握人生方向
 
 <ul>
 
-##  <span style="color: silver;">人生观是对人生的总看法  
+##  <span style="color: silver;"><span style="color: Goldenrod;">人生</span>观是对人生的总看法   ✓
 
 <ul>
 
-* 人生观的主要内容
-  * 人生目的
-    * 回答人为什么活着，是人生观的____
+* <span style="color: Goldenrod;">人生</span>观的主要内容
+  * 人生<span style="color: gray;">目的</span>
+    * 回答人为什么活着，是<span style="color: Goldenrod;">人生</span>观的____
     * 决定____、人生态度、人生价值选择
-  * 人生态度
+  * ~ 态度
     * 回答人应当____活着
     * 表示以怎样的____实现人生目标
-  * 人生价值
+  * ~ 价值
     * 回答什么样的____才有价值
     * 包含两个方面
       * 自我价值
@@ -131,14 +133,14 @@
         * 自我价值是____的前提
         * 社会价值是____的条件和个体发展的保障
     * 三者关系
-      * 人生目的决定____和价值评判
-      * 人生态度影响____和价值实现
-      * 人生价值制约____和态度选择
+      * ~ <span style="color: gray;">目的</span> 决定____和价值评判
+      * ~ 态度 影响____和价值实现
+      * ~ 价值 制约____和态度选择
 
-* 人生观与世界观、价值观的关系
-  * ____决定人生观
-  * 人生观对世界观的____起重要作用
-  * 价值观对人生观的____有重要引导作用
+* <span style="color: Goldenrod;">人生</span>观 与 <span style="color: LightGreen;">世界</span>观、<span style="color: Gold;">价值</span>观 的关系
+  * ____决定<span style="color: Goldenrod;">人生</span>观
+  * <span style="color: Goldenrod;">人生</span>观对<span style="color: LightGreen;">世界</span>观的____起重要作用
+  * <span style="color: Gold;">价值</span>观 对<span style="color: Goldenrod;">人生</span>观的____有重要引导作用
 
 >point:
 
@@ -149,8 +151,8 @@
     * ____属性是人的本质属性
   * 正确认识个人与社会的辩证关系
     * 个人与社会是____关系
-    * ____与社会利益的关系最根本
-    * 人的社会性决定____
+    * ____ 与 社会利益 的关系 最根本
+    * 人的社会性 决定____
 
 </ul>
 
@@ -160,23 +162,29 @@
   <ul>
     <li>核心</li>
     <li>人生道路</li>
+    <br>
     <li>如何</li>
     <li>心态</li>
+    <br>
     <li>人生</li>
     <li>生存和发展</li>
     <li>物质和精神</li>
     <li>社会、他人</li>
-    <li>个体生存发展和创造社会价值</li>
+    <li>个体 生存发展 和 创造社会价值</li>
     <li>社会存在发展</li>
+    <br>
     <li>态度</li>
-    <li>目的持守</li>
-    <li>目的</li>
-    <li>世界观</li>
+    <li><span style="color: gray;">目的</span>持守</li>
+    <li><span style="color: gray;">目的</span></li>
+    <br>
+    <li><span style="color: LightGreen;">世界</span>观</li>
     <li>巩固、发展和变化</li>
     <li>形成和发展</li>
+    <br>
     <li>历史社会关系</li>
     <li>社会关系</li>
     <li>社会</li>
+    <br>
     <li>对立统一</li>
     <li>个人利益</li>
     <li>发展方向</li>
@@ -184,7 +192,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">正确的人生观  
+##  <span style="color: silver;">正确的<span style="color: Goldenrod;">人生</span>观  
 
 <ul>
 
@@ -257,10 +265,10 @@
     * 人的生命价值在于____背后的意义
     * 努力给有限的个体生命赋予____
   * 正确看待荣与辱
-    * ____对个人的思想行为具有鲜明的导向和调节作用
+    * ____对个人的思想行为具有鲜明的导向和<span style="color: LimeGreen;">调节</span>作用
 
-* 反对错误人生观
-  * 必须反对出发点和落脚点都是____的拜金主义、享乐主义、极端个人主义等错误的人生观
+* 反对错误<span style="color: Goldenrod;">人生</span>观
+  * 必须反对出发点和落脚点都是____的拜金主义、享乐主义、极端个人主义等错误的<span style="color: Goldenrod;">人生</span>观
 
 * 成就出彩人生
   * 当代青年人担当____赋予的历史责任
@@ -321,7 +329,7 @@
   * 理想的划分
     * ____理想和社会理想
     * 近期理想和____理想
-    * 生活理想、____理想、道德理想和政治理想等
+    * 生活理想、____理想、<span style="color: gray;">道德</span> 理想和政治理想等
   * 理想的特征
     * ____性：源于现实，超越现实
     * 实践性：在____中产生、发展、实现
@@ -364,7 +372,7 @@
     <li>核心</li>
     <li>钙</li>
     <li>实现</li>
-    <li>世界观、人生观和价值观</li>
+    <li><span style="color: LightGreen;">世界</span>观、<span style="color: Goldenrod;">人生</span>观和<span style="color: Gold;">价值</span>观 </li>
     <li>个人</li>
     <li>远期</li>
     <li>职业</li>
@@ -531,7 +539,7 @@
 
 * 弘扬以爱国主义为核心的民族精神
   * 民族精神的含义
-    * 是民族共同的____、思维方式、道德规范、精神气质
+    * 是民族共同的____、思维方式、<span style="color: gray;">道德</span> 规范、精神气质
     * 是民族____的精神支柱
   * 爱国主义的形成和地位
     * 在____历史中形成
@@ -664,7 +672,7 @@
   * 是____、情之所归
 * 对新时代中国青年的要求
   * ____是立身之本、成才之基
-  * 爱国主义是____要求、政治原则和法律规范
+  * 爱国主义是____要求、政治原则和<span style="color: tan;">法律</span> 规范
 
 </ul>
 
@@ -681,7 +689,7 @@
     <li>本分</li>
     <li>心之所系</li>
     <li>热爱祖国</li>
-    <li>道德</li>
+    <li><span style="color: gray;">道德</span> </li>
   </ul>
 </details>
 </div>
@@ -692,11 +700,11 @@
 
 <ul>
 
-##  <span style="color: silver;">价值观与核心价值观  
+##  <span style="color: silver;"><span style="color: Gold;">价值</span>观 与核心<span style="color: Gold;">价值</span>观   
 
 <ul>
 
-* 价值观
+* <span style="color: Gold;">价值</span>观 
   * 含义
     * 主体对客体有无价值、价值大小的____和态度
     * 是对价值及其相关内容的____和看法
@@ -707,7 +715,7 @@
     * 体现着鲜明的____特色
     * 蕴含着特定的____立场
 
-* 核心价值观
+* 核心<span style="color: Gold;">价值</span>观 
   * 含义
     * 是一定社会形态、社会性质的____体现
     * 在社会思想观念体系中处于____地位
@@ -741,16 +749,16 @@
     <li>是非曲直</li>
     <li>稳定器</li>
     <li>和谐稳定</li>
-    <li>核心价值观</li>
+    <li>核心<span style="color: Gold;">价值</span>观 </li>
   </ul>
 </details>
 </div>
 
-##  <span style="color: silver;">社会主义核心价值观  
+##  <span style="color: silver;">社会主义核心<span style="color: Gold;">价值</span>观   
 
 <ul>
 
-* 社会主义核心价值观的基本内容
+* 社会主义核心<span style="color: Gold;">价值</span>观 的基本内容
   * 把涉及____的价值要求融为一体
   * 体现社会主义____要求
   * 继承____传统文化
@@ -765,15 +773,15 @@
   * 以____为核心的民族精神和以____为核心的时代精神
   * 社会主义____观
 
-* 社会主义核心价值观与核心价值体系的关系
-  * 核心价值观是核心价值体系的____内核
+* 社会主义核心<span style="color: Gold;">价值</span>观 与核心价值体系的关系
+  * 核心<span style="color: Gold;">价值</span>观 是核心价值体系的____内核
   * 是核心价值体系的____和集中表达
   * 内在一致性
     * 体现社会主义____本质要求
     * 体现社会主义制度____层面的质的规定性
     * 是____的价值引领
 
-* 社会主义核心价值观的重要性
+* 社会主义核心<span style="color: Gold;">价值</span>观 的重要性
   * ____精神的集中体现
   * ____的价值表达
   * 全体人民共同的____追求
@@ -783,7 +791,7 @@
     * 提高国家____的迫切要求
     * 推进社会____的最大公约数
 
-* 培育和践行社会主义核心价值观的重要性
+* 培育和践行社会主义核心<span style="color: Gold;">价值</span>观 的重要性
   * 是整合____、凝聚价值共识的重大举措
   * 是实现____的价值支撑
 
@@ -821,7 +829,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">社会主义核心价值观的显著特征
+##  <span style="color: silver;">社会主义核心<span style="color: Gold;">价值</span>观 的显著特征
 
 <ul>
 
@@ -835,13 +843,13 @@
   * 体现以____为中心的价值导向
 
 * 因真实可信而具有强大的____力量
-  * 与以往价值观的重要区别在于其____
+  * 与以往<span style="color: Gold;">价值</span>观 的重要区别在于其____
   * ____的成功验证了其正确性和可信性
 
 >point:
 
 * "普世价值"与"全人类共同价值"的区别
-  * "普世价值"特指____价值观
+  * "普世价值"特指____<span style="color: Gold;">价值</span>观 
   * 具有鲜明____倾向
   * 理论和实践上具有____性
   * 本质上服务于____利益
@@ -870,14 +878,14 @@
 </details>
 </div>
 
-##  <span style="color: silver;">积极践行社会主义核心价值观
+##  <span style="color: silver;">积极践行社会主义核心<span style="color: Gold;">价值</span>观 
 
 <ul>
 
 * 人生发展要点
   * 扣好人生的____
 
-* 核心价值观的实践要求
+* 核心<span style="color: Gold;">价值</span>观 的实践要求
   * ____落小落实
   * 具体实践方向
     * ____
@@ -885,7 +893,7 @@
     * ____
     * 笃实
   * 最终目标
-    * 使核心价值观成为____的基本遵循
+    * 使核心<span style="color: Gold;">价值</span>观 成为____的基本遵循
 
 </ul>
 
@@ -904,46 +912,46 @@
 
 </ul>
 
-#  <span style="color: silver;">第五章 遵守道德规范锤炼道德品格  
+#  <span style="color: silver;">第五章 遵守<span style="color: gray;">道德</span> 规范锤炼<span style="color: gray;">道德</span> 品格  
 
 <ul>
 
-##  <span style="color: silver;">坚持马克思主义道德观
+##  <span style="color: silver;">坚持马克思主义<span style="color: gray;">道德</span> 观
 
 <ul>
 
-* 道德的起源
+* <span style="color: gray;">道德</span> 的起源
   * 首要前提、第一个历史前提：____
   * 客观条件：____
   * 主观条件：人的____
     * 思想认识前提：____
 
-* 道德的本质
-  * 道德是反映____的特殊意识形态
-    * 道德的产生、发展和变化，归根结底源于____
-    * 道德作为一种社会意识，在阶级社会里不可避免地具有____；同时，不同阶级之间的道德或多或少有一些共同之处，反映着道德的____
-    * 道德有____（表现为道德的历史继承性和对社会发展具有能动的反作用）
-  * 道德是____的特殊调节方式
-    * 道德与法律规范、政治规范的不同之处：道德是一种____规范（即用善恶标准去评价，依靠社会舆论、传统习俗、内心信念来维持）
-  * 道德是一种____精神，在本质上是____的
+* <span style="color: gray;">道德</span> 的本质
+  * <span style="color: gray;">道德</span> 是反映____的特殊意识形态
+    * <span style="color: gray;">道德</span> 的产生、发展和变化，归根结底源于____
+    * <span style="color: gray;">道德</span> 作为一种社会意识，在阶级社会里不可避免地具有____；同时，不同阶级之间的<span style="color: gray;">道德</span> 或多或少有一些共同之处，反映着<span style="color: gray;">道德</span> 的____
+    * <span style="color: gray;">道德</span> 有____（表现为<span style="color: gray;">道德</span> 的历史继承性和对社会发展具有能动的反作用）
+  * <span style="color: gray;">道德</span> 是____的特殊<span style="color: LimeGreen;">调节</span>方式
+    * <span style="color: gray;">道德</span> 与<span style="color: tan;">法律</span> 规范、政治规范的不同之处：<span style="color: gray;">道德</span> 是一种____规范（即用善恶标准去评价，依靠社会舆论、传统习俗、内心信念来维持）
+  * <span style="color: gray;">道德</span> 是一种____精神，在本质上是____的
 
-* 道德的功能
+* <span style="color: gray;">道德</span> 的功能
   * ____功能：反映社会关系特别是反映社会经济关系的功效与能力
   * ____功能：指在正确善恶观的指引下，规范社会成员行为和个人品德养成
   * ____功能：通过评价等方式，指导和纠正人们的行为和实践活动
 
-* 道德的作用
+* <span style="color: gray;">道德</span> 的作用
   * 维系____、促进国家发展的重要因素
   * 激励人们改造____和主观世界的精神力量
 
 >point:
 
-* 道德作用的性质
+* <span style="color: gray;">道德</span> 作用的性质
   * 与____的不同历史阶段相联系
   * 由以下因素决定:
-    * 道德所反映的____
-    * 道德代表的____
-* 道德的积极作用条件
+    * <span style="color: gray;">道德</span> 所反映的____
+    * <span style="color: gray;">道德</span> 代表的____
+* <span style="color: gray;">道德</span> 的积极作用条件
   * 必须反映:
     * ____发展要求
     * ____利益
@@ -972,7 +980,7 @@
     <li>知行合一</li>
     <li>认识</li>
     <li>规范</li>
-    <li>调节</li>
+    <li><span style="color: LimeGreen;">调节</span></li>
     <li>社会稳定</li>
     <li>客观世界</li>
     <li>社会发展</li>
@@ -986,23 +994,23 @@
 </details>
 </div>
 
-##  <span style="color: silver;">社会主义道德的核心和原则
+##  <span style="color: silver;">社会主义<span style="color: gray;">道德</span> 的核心和原则
 
 <ul>
 
-* 社会主义道德的特征
+* 社会主义<span style="color: gray;">道德</span> 的特征
   * 是____的反映
   * 是对人类____的批判继承和创新发展
-  * 克服了以往阶级社会道德的____和局限性
+  * 克服了以往阶级社会<span style="color: gray;">道德</span> 的____和局限性
 
-* 社会主义道德的核心：____
-  * 为什么人服务是道德的____问题
+* 社会主义<span style="color: gray;">道德</span> 的核心：____
+  * 为什么人服务是<span style="color: gray;">道德</span> 的____问题
   * 以为人民服务为核心的原因
-    * 是社会主义道德的____要求
+    * 是社会主义<span style="color: gray;">道德</span> 的____要求
     * 是____要求和广泛性要求的统一
-  * 是社会主义道德区别和优越于其他社会形态道德的____标志
+  * 是社会主义<span style="color: gray;">道德</span> 区别和优越于其他社会形态<span style="color: gray;">道德</span> 的____标志
 
-* 社会主义道德的原则：____
+* 社会主义<span style="color: gray;">道德</span> 的原则：____
   * 正确认识和处理____的关系
     * 强调三者的____统一
     * 强调国家利益、社会整体利益高于____
@@ -1019,7 +1027,7 @@
   <summary> </summary>
   <ul>
     <li>社会主义经济基础</li>
-    <li>优秀道德资源</li>
+    <li>优秀<span style="color: gray;">道德</span> 资源</li>
     <li>片面性</li>
     <li>为人民服务</li>
     <li>核心</li>
@@ -1038,7 +1046,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">吸收借鉴优秀道德成果
+##  <span style="color: silver;">吸收借鉴优秀<span style="color: gray;">道德</span> 成果
 
 <ul>
 
@@ -1054,11 +1062,11 @@
       * 义利之辨的核心是____之辨
     * 推崇____原则，注重以和为贵
       * 推崇仁爱、崇尚和谐是____和高尚品德
-    * 注重____关系，重视道德义务
+    * 注重____关系，重视<span style="color: gray;">道德</span> 义务
       * 重视每个人在____中的地位及价值
       * 强调履行____
     * 追求____境界，向往理想人格
-    * 强调____修养，注重道德践履
+    * 强调____修养，注重<span style="color: gray;">道德</span> 践履
 
 ![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2657ba5fb87485bcc9adb8b85570176a78c8907eefc4dd43b5d6d038fdb73430.jpg)  
 
@@ -1069,10 +1077,10 @@
   * 用中华传统美德滋养____建设
   * 反对"____"和"虚无论"两种错误思潮
 
-* 发扬中国革命道德
+* 发扬中国革命<span style="color: gray;">道德</span> 
   * 定位
     * 是对中华传统美德的____和发展
-    * 是____在革命建设改革中形成的优秀道德
+    * 是____在革命建设改革中形成的优秀<span style="color: gray;">道德</span> 
     * 是____与中国实践相结合的产物
     * 是中华民族宝贵的____财富
   * 内容
@@ -1083,11 +1091,11 @@
     * 修身自律，保持____
   * 当代价值
     * 有利于加强和巩固____的理想信念
-    * 有利于培育和践行____价值观
+    * 有利于培育和践行____<span style="color: Gold;">价值</span>观 
     * 有利于引导人们树立正确的____观
     * 有利于培育良好的____风尚
 
-* 借鉴人类文明优秀道德成果
+* 借鉴人类文明优秀<span style="color: gray;">道德</span> 成果
   * 秉承正确____和科学方法
   * 大胆吸收借鉴____成果
   * 掌握鉴别____标准
@@ -1100,8 +1108,8 @@
   <ul>
     <li>精神</li>
     <li>中华文化</li>
-    <li>思想道德</li>
-    <li>社会主义道德</li>
+    <li>思想<span style="color: gray;">道德</span> </li>
+    <li>社会主义<span style="color: gray;">道德</span> </li>
     <li>整体</li>
     <li>公义</li>
     <li>公私</li>
@@ -1111,14 +1119,14 @@
     <li>人伦关系</li>
     <li>应尽义务</li>
     <li>精神</li>
-    <li>道德</li>
+    <li><span style="color: gray;">道德</span> </li>
     <li>挖掘</li>
-    <li>社会主义道德</li>
+    <li>社会主义<span style="color: gray;">道德</span> </li>
     <li>复古论</li>
     <li>延续</li>
     <li>中国共产党人、人民军队、先进分子和人民群众</li>
     <li>马克思主义</li>
-    <li>道德</li>
+    <li><span style="color: gray;">道德</span> </li>
     <li>社会主义和共产主义</li>
     <li>全心全意</li>
     <li>革命利益</li>
@@ -1126,8 +1134,8 @@
     <li>节操</li>
     <li>社会主义和共产主义</li>
     <li>社会主义核心</li>
-    <li>道德</li>
-    <li>社会道德</li>
+    <li><span style="color: gray;">道德</span> </li>
+    <li>社会<span style="color: gray;">道德</span> </li>
     <li>态度</li>
     <li>积极</li>
     <li>取舍</li>
@@ -1135,7 +1143,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">把社会公德、职业道德、家庭美德、个人品德建设作为着力点
+##  <span style="color: silver;">把社会公德、职业<span style="color: gray;">道德</span> 、家庭美德、个人品德建设作为着力点
 
 <ul>
 
@@ -1149,23 +1157,23 @@
     * 是____的重要基础
     * 是提高社会成员____的基本保障
     * 是____的重要标志
-  * 公共生活中的道德规范
+  * 公共生活中的<span style="color: gray;">道德</span> 规范
     * ____礼貌
     * ____为乐
     * 爱护____
     * ____环境
     * ____守法
-  * 网络生活中的道德要求
+  * 网络生活中的<span style="color: gray;">道德</span> 要求
     * 必须遵守____规范
     * 正确使用____工具
     * 加强网络文明____
     * 营造良好网络____环境
 
-* 恪守职业道德
+* 恪守职业<span style="color: gray;">道德</span> 
   * 正确的劳动观念
     * 劳动最____、崇高、伟大、美丽
     * 幸福源于____，成功在于奉献
-  * 职业生活中的道德规范
+  * 职业生活中的<span style="color: gray;">道德</span> 规范
     * ____敬业
     * ____守信
     * 办事____
@@ -1173,8 +1181,8 @@
     * ____社会
 >point:
 
-* ____既是道德要求，又是法律规范
-* ____是社会主义职业道德最高层次要求
+* ____既是<span style="color: gray;">道德</span> 要求，又是<span style="color: tan;">法律</span> 规范
+* ____是社会主义职业<span style="color: gray;">道德</span> 最高层次要求
 
 * 树立正确的择业观和创业观
   * 树立崇高的____理想
@@ -1197,11 +1205,11 @@
 * 锤炼个人品德
   * 定位：具有____作用
   * 内涵：是稳定的____和行为习惯
-  * 涵养高尚道德品格
+  * 涵养高尚<span style="color: gray;">道德</span> 品格
     * 形成正确的____和判断
     * 激发正向的____和情感
     * 强化坚定的____和信念
-  * 道德修养重在____
+  * <span style="color: gray;">道德</span> 修养重在____
     * 掌握正确____
     * 向____学习
     * 参与____活动
@@ -1230,10 +1238,10 @@
     <li>公物</li>
     <li>保护</li>
     <li>遵纪</li>
-    <li>道德</li>
+    <li><span style="color: gray;">道德</span> </li>
     <li>网络</li>
     <li>自律</li>
-    <li>道德</li>
+    <li><span style="color: gray;">道德</span> </li>
     <li>光荣</li>
     <li>奋斗</li>
     <li>爱岗</li>
@@ -1258,12 +1266,12 @@
     <li>互助</li>
     <li>基础性</li>
     <li>心理状态</li>
-    <li>道德认知</li>
-    <li>道德认同</li>
-    <li>道德意志</li>
+    <li><span style="color: gray;">道德</span> 认知</li>
+    <li><span style="color: gray;">道德</span> 认同</li>
+    <li><span style="color: gray;">道德</span> 意志</li>
     <li>践行</li>
     <li>方法</li>
-    <li>道德模范</li>
+    <li><span style="color: gray;">道德</span> 模范</li>
     <li>志愿服务</li>
     <li>社会风尚</li>
   </ul>
@@ -1276,49 +1284,49 @@
 
 <ul>
 
-##  <span style="color: silver;">社会主义法律的特征和运行  
+##  <span style="color: silver;">社会主义<span style="color: tan;">法律</span> 的特征和运行  
 
 <ul>
 
-* 法律的含义
-  * 法律是由国家制定或认可并由____保证实施的，反映由特定社会物质生活条件所决定的____意志的规范体系
+* <span style="color: tan;">法律</span> 的含义
+  * <span style="color: tan;">法律</span> 是由国家制定或认可并由____保证实施的，反映由特定社会物质生活条件所决定的____意志的规范体系
 
 >point:
 
 * 重要特征
-  * ____是法律规范区别于其他社会规范的一个重要特征
-  * 法律所体现的统治阶级意志，并不是统治阶级意志的全部，仅仅是上升为____的那部分意志
-  * ____既是决定社会面貌、性质和发展的根本因素，也是决定法律本质、内容和发展方向的根本因素
+  * ____是<span style="color: tan;">法律</span> 规范区别于其他社会规范的一个重要特征
+  * <span style="color: tan;">法律</span> 所体现的统治阶级意志，并不是统治阶级意志的全部，仅仅是上升为____的那部分意志
+  * ____既是决定社会面貌、性质和发展的根本因素，也是决定<span style="color: tan;">法律</span> 本质、内容和发展方向的根本因素
 
-* 我国社会主义法律的本质特征
+* 我国社会主义<span style="color: tan;">法律</span> 的本质特征
   * 体现____的统一
     * 具有鲜明的____和广泛的人民性
   * 具有____和先进性
   * 是____的重要保障
 
-* 我国社会主义法律的运行
-  * 法律制定
+* 我国社会主义<span style="color: tan;">法律</span> 的运行
+  * <span style="color: tan;">法律</span> 制定
     * 含义：有立法权的国家机关依法定职权和程序制定____的活动
     * 原则：贯彻____原则，坚持科学立法、民主立法、依法立法
-    * 法定程序：包括法律案的____、审议、表决、公布
-  * 法律执行
+    * 法定程序：包括<span style="color: tan;">法律</span> 案的____、审议、表决、公布
+  * <span style="color: tan;">法律</span> 执行
     * 主要由____执行
     * 基本原则：____性、合理性、信赖保护、效率
     * 执法主体：____及其下属行政机构
-  * 法律适用
+  * <span style="color: tan;">法律</span> 适用
     * 司法机关：国家____机关和检察机关
     * 基本要求：正确、____、合理、及时
-    * 原则：____、法律面前平等、以事实为依据，以法律为准绳等
-  * 法律遵守
+    * 原则：____、<span style="color: tan;">法律</span> 面前平等、以事实为依据，以<span style="color: tan;">法律</span> 为准绳等
+  * <span style="color: tan;">法律</span> 遵守
     * 含义：依法行使____以及履行职责或义务的活动
-    * 特点：是法律____的基本途径，一切组织和个人都是守法主体
+    * 特点：是<span style="color: tan;">法律</span> ____的基本途径，一切组织和个人都是守法主体
 
 >point:
 
-* 法律运行过程
+* <span style="color: tan;">法律</span> 运行过程
   * 从____的过程
-  * 法律制定是____的权威性分配
-  * 法律执行、适用、遵守将____转化为实践
+  * <span style="color: tan;">法律</span> 制定是____的权威性分配
+  * <span style="color: tan;">法律</span> 执行、适用、遵守将____转化为实践
 
 </ul>
 
@@ -1335,7 +1343,7 @@
     <li>阶级性</li>
     <li>科学性</li>
     <li>中国特色社会主义建设</li>
-    <li>规范性法律文件</li>
+    <li>规范性<span style="color: tan;">法律</span> 文件</li>
     <li>公正、公平、公开</li>
     <li>提出</li>
     <li>行政机关</li>
@@ -1348,7 +1356,7 @@
     <li>实施和实现</li>
     <li>创制、实施到实现</li>
     <li>权利义务</li>
-    <li>法律规范</li>
+    <li><span style="color: tan;">法律</span> 规范</li>
   </ul>
 </details>
 </div>
@@ -1432,12 +1440,12 @@
   * 坚持____主体地位
     * 全面依法治国最____的基础是人民
   * 坚持____人人平等
-    * 是社会主义法律的____属性
+    * 是社会主义<span style="color: tan;">法律</span> 的____属性
     * 要求____和非歧视对待
-    * 有利于增强____意识、预防特权思想、维护法律权威
+    * 有利于增强____意识、预防特权思想、维护<span style="color: tan;">法律</span> 权威
   * 坚持____相结合
-    * 强化道德对____的支撑作用
-    * 把道德要求贯彻到____中
+    * 强化<span style="color: gray;">道德</span> 对____的支撑作用
+    * 把<span style="color: gray;">道德</span> 要求贯彻到____中
     * 运用法治手段解决____问题
   * 坚持从____出发
 
@@ -1459,14 +1467,14 @@
     <li>领导立法</li>
     <li>人民</li>
     <li>广泛、最深厚</li>
-    <li>法律面前</li>
+    <li><span style="color: tan;">法律</span> 面前</li>
     <li>基本</li>
     <li>违法必究</li>
     <li>主人翁</li>
     <li>依法治国和以德治国</li>
     <li>法治</li>
     <li>法治建设</li>
-    <li>道德</li>
+    <li><span style="color: gray;">道德</span> </li>
     <li>中国实际</li>
   </ul>
 </details>
@@ -1504,7 +1512,7 @@
 <details>
   <summary> </summary>
   <ul>
-    <li>法律规范</li>
+    <li><span style="color: tan;">法律</span> 规范</li>
     <li>法治实施</li>
     <li>法治监督</li>
     <li>法治保障</li>
@@ -1530,7 +1538,7 @@
   * 宪法至上地位主要体现在其特有的____等方面
   * 体现方面：
     * 从宪法作用看：是____，党和人民意志集中体现，具有显著优势、坚实基础、强大生命力
-    * 从宪法效力看：是国家各项制度和____总依据，居核心地位，具有最高法律地位、权威、效力
+    * 从宪法效力看：是国家各项制度和____总依据，居核心地位，具有最高<span style="color: tan;">法律</span> 地位、权威、效力
     * 从宪法内容看：规定了国家____
     * 是实现国家认同、凝聚社会共识、促进____的基本准则和根本纽带
 
@@ -1561,7 +1569,7 @@
     <li>宪法至上</li>
     <li>作用、效力和内容</li>
     <li>国家根本法</li>
-    <li>法律法规</li>
+    <li><span style="color: tan;">法律</span> 法规</li>
     <li>根本制度</li>
     <li>个人发展</li>
     <li>党的领导</li>
@@ -1586,13 +1594,13 @@
 
 * 法治思维是特殊的高级____意识
   * ____思维：以法治价值和精神为指导
-  * ____思维：以法律原则和规则为依据
-  * ____思维：以法律手段与方法为依托
+  * ____思维：以<span style="color: tan;">法律</span> 原则和规则为依据
+  * ____思维：以<span style="color: tan;">法律</span> 手段与方法为依托
   * ____思维：符合规律、尊重事实
 
 * 法治思维的基本内容
-  * 法律至上
-    * 含义：法律是地位最高、____最广、强制力最大的规范
+  * <span style="color: tan;">法律</span> 至上
+    * 含义：<span style="color: tan;">法律</span> 是地位最高、____最广、强制力最大的规范
     * 具体表现：____适用、优先适用、不可违反
   * 权力制约
     * 含义：国家机关权力必须受____规制和约束
@@ -1616,18 +1624,18 @@
 <details>
   <summary> </summary>
   <ul>
-    <li>法律</li>
+    <li><span style="color: tan;">法律</span> </li>
     <li>正当性</li>
     <li>规范</li>
     <li>逻辑</li>
     <li>科学</li>
     <li>效力</li>
     <li>普遍</li>
-    <li>法律</li>
+    <li><span style="color: tan;">法律</span> </li>
     <li>有权必有责</li>
     <li>主体</li>
     <li>起点</li>
-    <li>法律面前</li>
+    <li><span style="color: tan;">法律</span> 面前</li>
     <li>司法</li>
     <li>宪法</li>
     <li>立法</li>
@@ -1642,31 +1650,31 @@
 
 <ul>
 
-* 法律权利与法律义务
+* <span style="color: tan;">法律</span> 权利与<span style="color: tan;">法律</span> 义务
   * 马克思主义权利观与其他权利观的根本区别
     * 强调社会的____对权利的制约和决定作用
-  * 法律权利的特征
+  * <span style="color: tan;">法律</span> 权利的特征
     * 内容、种类和实现程度受____的制约
     * 内容、分配和实现方式因____的不同而存在差异
-    * 由法律规定或认可，受____，具有不可侵犯性
+    * 由<span style="color: tan;">法律</span> 规定或认可，受____，具有不可侵犯性
     * 必须依法行使，不能____行使
-  * 法律义务的特点
+  * <span style="color: tan;">法律</span> 义务的特点
     * ____性、源于现实需要、依法设定、可变性
 
 >point:
 
-* 法律义务的表现形式
+* <span style="color: tan;">法律</span> 义务的表现形式
   * ____：义务人实施积极行为
   * ____：义务人不得实施某种行为
 
-* 法律权利与法律义务的关系
+* <span style="color: tan;">法律</span> 权利与<span style="color: tan;">法律</span> 义务的关系
   * ____，相互依存
     * 每个人既是____又是义务主体
     * 权利实现以____为条件
     * 部分权利义务具有____关系
   * 权利义务相一致时，行使和履行都对自己____
 
-* 我国宪法法律规定的权利
+* 我国宪法<span style="color: tan;">法律</span> 规定的权利
   * 政治权利
     * 重要性：实现____原则的前提条件
     * 内容：____权、表达权、民主管理权、监督权
@@ -1690,15 +1698,15 @@
     * ____权
     * 文化权利：科研、文艺创作、其他____自由
 
-* 依法行使法律权利
-  * 权利行使目的的____
+* 依法行使<span style="color: tan;">法律</span> 权利
+  * 权利行使<span style="color: gray;">目的</span>的____
   * 权利行使的____限度
   * 权利行使方式的____
   * 权利行使的____程序
 
-* 依法履行法律义务
+* 依法履行<span style="color: tan;">法律</span> 义务
   * 维护____和民族团结
-  * 遵守____和法律
+  * 遵守____和<span style="color: tan;">法律</span> 
   * 维护祖国____、荣誉和利益
   * 依法____
   * 依法____
@@ -1711,10 +1719,10 @@
   * 违反义务需承担____
 
 * 不断提升法治素养
-  * 尊重法律权威
+  * 尊重<span style="color: tan;">法律</span> 权威
     * 必要性：源自人民内心____和信仰
-    * 基本要求：____、遵守、服从、维护法律
-  * 学习法律知识
+    * 基本要求：____、遵守、服从、维护<span style="color: tan;">法律</span> 
+  * 学习<span style="color: tan;">法律</span> 知识
     * 掌握基本____是前提
     * 参与____是有效途径
   * 养成守法习惯
@@ -1733,8 +1741,8 @@
   <ul>
     <li>物质生活条件</li>
     <li>社会物质生活条件</li>
-    <li>社会制度和国家法律</li>
-    <li>法律维护保障</li>
+    <li>社会制度和国家<span style="color: tan;">法律</span> </li>
+    <li><span style="color: tan;">法律</span> 维护保障</li>
     <li>不择手段地</li>
     <li>历史</li>
     <li>作为</li>
@@ -1769,16 +1777,16 @@
     <li>安全</li>
     <li>服兵役</li>
     <li>纳税</li>
-    <li>法律</li>
+    <li><span style="color: tan;">法律</span> </li>
     <li>法定义务</li>
-    <li>法律责任</li>
+    <li><span style="color: tan;">法律</span> 责任</li>
     <li>拥护</li>
     <li>信仰</li>
-    <li>法律知识</li>
+    <li><span style="color: tan;">法律</span> 知识</li>
     <li>法治实践</li>
     <li>规则</li>
     <li>守法守规</li>
-    <li>法律</li>
+    <li><span style="color: tan;">法律</span> </li>
     <li>内化</li>
     <li>自身权利</li>
   </ul>

@@ -1,16 +1,16 @@
  <span style="color: silver;">
  
-#  <span style="color: silver;">绪论：担当复兴大任成就时代新人  
+#  <span style="color: silver;">绪论：担当复兴大任成就<span style="color: gray;">时代</span>新人  
 
 <ul>
 
-##  <span style="color: silver;">努力成为堪当民族复兴重任的时代新人 ✓
+##  <span style="color: silver;">努力成为堪当民族复兴重任的<span style="color: gray;">时代</span>新人 ✓
 
 <ul>
 
-* 时代新人的要求
+* <span style="color: gray;">时代</span>新人的要求
   * 立大志
-    * 有____的理想信念
+    * 有____的<span style="color: Gold;"> ~ </span><span style="color: BurlyWood;"> ~ </span>
     * 牢记____
     * 自信自励
   * 明大德
@@ -30,7 +30,7 @@
   * 坚定不移____、跟党走
   * 怀抱梦想又____
   * 敢想敢为又____
-  * 立志做有理想、敢担当、能吃苦、肯奋斗的____好青年
+  * 立志做有<span style="color: Gold;">理想</span>、敢担当、能吃苦、肯奋斗的____好青年
   * 让青春在____的火热实践中绽放绚丽之花
 
 </ul>
@@ -47,7 +47,7 @@
     <li>听党话</li>
     <li>脚踏实地</li>
     <li>善作善成</li>
-    <li>新时代</li>
+    <li>新<span style="color: gray;">时代</span></li>
     <li>全面建设 社会主义现代化国家</li>
   </ul>
 </details>
@@ -192,7 +192,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">正确的<span style="color: Goldenrod;">人生</span>观  
+##  <span style="color: silver;">正确的<span style="color: Goldenrod;">人生</span>观  ✓
 
 <ul>
 
@@ -211,8 +211,8 @@
   * 根本尺度：是否符合____，促进历史进步
   * 当今标准：____，为人民服务
   * 评价方法
-    * 既看____，也看尽力程度
-    * 既重____贡献，也重精神贡献
+    * 既看____，也看 尽力 程度
+    * 既重____贡献，也重 精神 贡献
     * 既注重____贡献，也注重自身完善
   * 实现条件
     * 从____条件出发
@@ -226,18 +226,23 @@
   <summary> </summary>
   <ul>
     <li>服务人民、奉献社会</li>
+    <ul>
     <li>奋斗</li>
     <li>人生</li>
     <li>价值</li>
+    </ul>
     <li>认真</li>
     <li>务实</li>
     <li>乐观</li>
     <li>进取</li>
+    <br>
     <li>社会发展规律</li>
     <li>为国家社会奉献</li>
+    <br>
     <li>贡献大小</li>
     <li>物质</li>
     <li>社会</li>
+    <br>
     <li>社会客观</li>
     <li>个体自身</li>
     <li>能力和本领</li>
@@ -245,7 +250,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">创造有意义的人生  
+##  <span style="color: silver;">创造有意义的人生  ✓
 
 <ul>
 
@@ -257,7 +262,7 @@
     * 只有把小我融入大我，在____中才能实现更大的人生价值
   * 正确看待苦与乐
     * 真正的快乐往往由____转化而来
-    * 青年时代，选择____也就选择了收获，选择奉献也就选择了高尚
+    * 青年<span style="color: gray;">时代</span>，选择____也就选择了收获，选择奉献也就选择了高尚
   * 正确看待顺与逆
     * 无论是____还是逆境，对人生的作用都是双面的
     * 关键是怎样去____它们（处优而不养尊，受挫而不短志)
@@ -281,7 +286,6 @@
     * 人世间的一切幸福都需要靠____来创造
     * 追求幸福的过程就是____的过程
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4af50b75ec8a0fa5cd43f6052548f58bff983dcddffa57a14ab418793e35c99d.jpg)
 
 </ul>
 
@@ -293,18 +297,28 @@
     <li>失</li>
     <li>计较</li>
     <li>奉献社会</li>
+    <br>
     <li>奋斗的艰苦</li>
     <li>吃苦</li>
+    <br>
     <li>顺境</li>
     <li>认识和对待</li>
+    <br>
     <li>个体生命付出</li>
     <li>更大的意义</li>
+    <br>
     <li>荣辱观</li>
+    <br>
     <li>一已私利</li>
-    <li>新时代</li>
+    <br>
+    <li>新<span style="color: gray;">时代</span></li>
+    <ul>
     <li>祖国的大我、人民的大我</li>
     <li>人生价值</li>
+    </ul>
+    <br>
     <li>社会实践</li>
+    <br>
     <li>辛勤的劳动</li>
     <li>不满足于现状、不断追求和创造更美好生活</li>
   </ul>
@@ -313,53 +327,54 @@
 
 </ul>
 
-#  <span style="color: silver;">第二章 追求远大理想 坚定崇高信念
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4af50b75ec8a0fa5cd43f6052548f58bff983dcddffa57a14ab418793e35c99d.jpg)
+#  <span style="color: silver;">第二章 追求远大<span style="color: Gold;">理想</span> 坚定崇高<span style="color: BurlyWood;">信念</span>
 
 <ul>
 
-##  <span style="color: silver;">理想信念的内涵及重要性  
+##  <span style="color: silver;"><span style="color: Gold;"> ~ </span><span style="color: BurlyWood;"> ~ </span>的内涵 & 重要性  ✓
 
 <ul>
 
-* 理想信念的内涵、特征
-  * 理想信念是人类特有的____现象，是人的精神世界的____，是人精神上的"____"
-  * 理想的内涵
+* <span style="color: Gold;"> ~ </span><span style="color: BurlyWood;"> ~ </span>的内涵、特征
+  * <span style="color: Gold;"> ~ </span><span style="color: BurlyWood;"> ~ </span>是人类特有的____现象，是人的精神世界的____，是人精神上的"____"
+  * <span style="color: Gold;">理想</span>的内涵
     * 是人们在实践中形成的、有____可能性的、对未来社会和自身发展自标的向往与追求
     * 是人们的____在奋斗自标上的集中体现
-  * 理想的划分
-    * ____理想和社会理想
-    * 近期理想和____理想
-    * 生活理想、____理想、<span style="color: gray;">道德</span> 理想和政治理想等
-  * 理想的特征
+  * <span style="color: Gold;">理想</span>的划分
+    * ____<span style="color: Gold;">理想</span>和社会<span style="color: Gold;">理想</span>
+    * 近期<span style="color: Gold;">理想</span>和____<span style="color: Gold;">理想</span>
+    * 生活<span style="color: Gold;">理想</span>、____<span style="color: Gold;">理想</span>、<span style="color: gray;">道德</span> <span style="color: Gold;">理想</span>和政治<span style="color: Gold;">理想</span>等
+  * <span style="color: Gold;">理想</span>的特征
     * ____性：源于现实，超越现实
     * 实践性：在____中产生、发展、实现
-    * ____性：受时代条件的制约，随着时代的发展而发展
-  * 信念的内涵
+    * ____性：受<span style="color: gray;">时代</span>条件的制约，随着<span style="color: gray;">时代</span>的发展而发展
+  * <span style="color: BurlyWood;">信念</span>的内涵
     * 是人们在一定认识基础上确立的对某种思想或事物____的精神状态
     * 是____的有机统一体
-  * 信念的特征
+  * <span style="color: BurlyWood;">信念</span>的特征
     * 具有____性
     * 具有____性
     * 具有____性
-  * 信念的类型和层次
-    * ____层次信念决定低层次信念
-    * 低层次信念服从____层次信念
-    * ____是最高层次的信念，具有最大统摄力
+  * <span style="color: BurlyWood;">信念</span>的类型和层次
+    * ____层次<span style="color: BurlyWood;">信念</span>决定低层次<span style="color: BurlyWood;">信念</span>
+    * 低层次<span style="color: BurlyWood;">信念</span>服从____层次<span style="color: BurlyWood;">信念</span>
+    * ____是最高层次的<span style="color: BurlyWood;">信念</span>，具有最大统摄力
 
-* 理想和信念的关系
-  * ____依存，所以被合称为理想信念
-  * 理想是信念所指的____，信念是理想实现的____
-  * 理想指____，信念决定____
+* <span style="color: Gold;">理想</span>和<span style="color: BurlyWood;">信念</span>的关系
+  * ____依存，所以被合称为<span style="color: Gold;"> ~ </span><span style="color: BurlyWood;"> ~ </span>
+  * <span style="color: Gold;">理想</span>是<span style="color: BurlyWood;">信念</span>所指的____，<span style="color: BurlyWood;">信念</span>是<span style="color: Gold;">理想</span>实现的____
+  * <span style="color: Gold;">理想</span>指____，<span style="color: BurlyWood;">信念</span>决定____
 
-* 理想信念的作用
+* <span style="color: Gold;"> ~ </span><span style="color: BurlyWood;"> ~ </span>的作用
   * 昭示____目标
   * 催生____动力
   * 提供____支柱
   * 提高____境界
 
-* 坚定信仰信念信心
+* 坚定信仰<span style="color: BurlyWood;">信念</span>信心
   * 增强对____的信仰
-  * 增强对____的信念
+  * 增强对____的<span style="color: BurlyWood;">信念</span>
   * 增强对____的信心
 
 </ul>
@@ -368,34 +383,39 @@
 <details>
   <summary> </summary>
   <ul>
-    <li>精神</li>
-    <li>核心</li>
-    <li>钙</li>
+    <li>精神 核心 钙</li>
+    <br>
     <li>实现</li>
     <li><span style="color: LightGreen;">世界</span>观、<span style="color: Goldenrod;">人生</span>观和<span style="color: Gold;">价值</span>观 </li>
+    <br>
     <li>个人</li>
     <li>远期</li>
     <li>职业</li>
+    <br>
     <li>超越</li>
     <li>实践</li>
-    <li>时代</li>
+    <li><span style="color: gray;">时代</span></li>
+    <br>
     <li>坚信不疑并身体力行</li>
     <li>认知、情感和意志</li>
+    <br>
     <li>执着</li>
     <li>支撑</li>
     <li>多样</li>
+    <br>
     <li>高</li>
     <li>高</li>
     <li>信仰</li>
+    <br>
     <li>相互</li>
-    <li>对象</li>
-    <li>保障</li>
-    <li>方向</li>
-    <li>成败</li>
+    <li>对象 保障</li>
+    <li>方向 成败</li>
+    <br>
     <li>奋斗</li>
     <li>前进</li>
     <li>精神</li>
     <li>精神</li>
+    <br>
     <li>马克思主义、共产主义</li>
     <li>中国特色社会主义</li>
     <li>实现中华民族伟大复兴</li>
@@ -403,24 +423,24 @@
 </details>
 </div>
 
-##  <span style="color: silver;">科学把握理想与现实的辩证统一  
+##  <span style="color: silver;">科学把握<span style="color: Gold;">理想</span>与现实的辩证统一  ✓
 
 <ul>
 
-* 辩证看待理想与现实的矛盾
-  * 理想与现实存在____的一面
-  * 理想与现实又是____的
-  * 在一定条件下，理想可转化为____
+* 辩证看待<span style="color: Gold;">理想</span>与现实的矛盾
+  * <span style="color: Gold;">理想</span>与现实存在____的一面
+  * <span style="color: Gold;">理想</span>与现实又是____的
+  * 在一定条件下，<span style="color: Gold;">理想</span>可转化为____
 
-* 实现理想的条件与途径
-  * 理想的实现是一个____：长期性、艰巨性和曲折性
-  * ____是实现理想的重要条件
-  * ____是通往理想彼岸的桥梁
+* 实现<span style="color: Gold;">理想</span>的条件与途径
+  * <span style="color: Gold;">理想</span>的实现是一个____：长期性、艰巨性和曲折性
+  * ____是实现<span style="color: Gold;">理想</span>的重要条件
+  * ____是通往<span style="color: Gold;">理想</span>彼岸的桥梁
 
-* 坚持个人理想与社会理想的有机结合
-  * 个人理想以____为指引
-  * 社会理想是个人理想的____
-  * 当有矛盾冲突时，个人理想应____
+* 坚持个人<span style="color: Gold;">理想</span>与社会<span style="color: Gold;">理想</span>的有机结合
+  * 个人<span style="color: Gold;">理想</span>以____为指引
+  * 社会<span style="color: Gold;">理想</span>是个人<span style="color: Gold;">理想</span>的____
+  * 当有矛盾冲突时，个人<span style="color: Gold;">理想</span>应____
 
 * 为实现中国梦注入青春能量
   * 立____，做奋斗者
@@ -428,7 +448,6 @@
   * 自觉____，知行合一
 
 ![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eddf7c9225bae931a51c1bd578b4b30dd6609fe2e12d65cbfd934fd3843edb00.jpg)  
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/45c74ad84f7e8411192f76beffb88a1b5cb0a7e96ca38eb2c582318087752824.jpg)
 
 </ul>
 
@@ -439,12 +458,15 @@
     <li>对立</li>
     <li>统一</li>
     <li>未来的现实</li>
+    <br>
     <li>过程</li>
     <li>艰苦奋斗</li>
     <li>实践</li>
-    <li>社会理想</li>
+    <br>
+    <li>社会<span style="color: Gold;">理想</span></li>
     <li>汇聚和升华</li>
-    <li>服从社会理想</li>
+    <li>服从社会<span style="color: Gold;">理想</span></li>
+    <br>
     <li>鸿志</li>
     <li>国之大者</li>
     <li>躬身实践</li>
@@ -454,6 +476,7 @@
 
 </ul>
 
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/45c74ad84f7e8411192f76beffb88a1b5cb0a7e96ca38eb2c582318087752824.jpg)
 #  <span style="color: silver;">第三章 继承优良传统 弘扬中国精神
 
 <ul>
@@ -476,7 +499,7 @@
   <summary> </summary>
   <ul>
     <li>物质生活</li>
-    <li>理想</li>
+    <li><span style="color: Gold;">理想</span></li>
     <li>品格养成</li>
   </ul>
 </details>
@@ -511,7 +534,7 @@
     <li>团结</li>
     <li>梦想</li>
     <li>宝贵</li>
-    <li>时代</li>
+    <li><span style="color: gray;">时代</span></li>
     <li>忠实</li>
     <li>伟大建党</li>
     <li>井冈山</li>
@@ -526,14 +549,14 @@
 * 弘扬中国精神的重要性
   * 中国精神是____之魂
     * 必须大力____中国精神
-    * 弘扬____精神和时代精神
+    * 弘扬____精神和<span style="color: gray;">时代</span>精神
     * 振奋全民族的"____"
   * 中国精神是凝聚兴国强国的____
     * 是凝聚中国力量的____
     * 是激发创新创造的____
     * 是推进复兴伟业的____
 
-* 民族精神和时代精神的关系
+* 民族精神和<span style="color: gray;">时代</span>精神的关系
   * 都是中国精神的____组成部分
   * 都是中华民族发展的____
 
@@ -554,10 +577,10 @@
     * 爱祖国的____文化
     * 爱自己的____
 
-* 弘扬以改革创新为核心的时代精神
-  * 时代精神的含义
+* 弘扬以改革创新为核心的<span style="color: gray;">时代</span>精神
+  * <span style="color: gray;">时代</span>精神的含义
     * 是新历史条件下形成的____
-    * 体现____和时代潮流
+    * 体现____和<span style="color: gray;">时代</span>潮流
   * 改革创新精神的体现
     * ____陈规、大胆探索的思想观念
     * 不甘落后、____的责任感
@@ -599,14 +622,14 @@
 </details>
 </div>
 
-##  <span style="color: silver;">做新时代的忠诚爱国者  
+##  <span style="color: silver;">做新<span style="color: gray;">时代</span>的忠诚爱国者  
 
 <ul>
 
-* 新时代爱国主义主题
+* 新<span style="color: gray;">时代</span>爱国主义主题
   * 实现____的中国梦
 
-* 新时代爱国主义的要求
+* 新<span style="color: gray;">时代</span>爱国主义的要求
   * 坚持____相统一
     * 当代爱国主义____
     * 基本要求
@@ -659,7 +682,7 @@
 <ul>
 
 * ____是当代中国的显著特征
-* ____是新时代的迫切要求
+* ____是新<span style="color: gray;">时代</span>的迫切要求
 * 做改革创新____
   * 青年时期是____的宝贵时期
   * 要树立改革创新的____
@@ -670,7 +693,7 @@
 * 孙中山关于爱国的观点
   * 爱国是____和职责
   * 是____、情之所归
-* 对新时代中国青年的要求
+* 对新<span style="color: gray;">时代</span>中国青年的要求
   * ____是立身之本、成才之基
   * 爱国主义是____要求、政治原则和<span style="color: tan;">法律</span> 规范
 
@@ -739,7 +762,7 @@
     <li>立场</li>
     <li>基本观点</li>
     <li>规范</li>
-    <li>时代</li>
+    <li><span style="color: gray;">时代</span></li>
     <li>民族</li>
     <li>阶级</li>
     <li>集中</li>
@@ -769,8 +792,8 @@
 
 * 社会主义核心价值体系的主要内容
   * ____指导思想
-  * ____共同理想
-  * 以____为核心的民族精神和以____为核心的时代精神
+  * ____共同<span style="color: Gold;">理想</span>
+  * 以____为核心的民族精神和以____为核心的<span style="color: gray;">时代</span>精神
   * 社会主义____观
 
 * 社会主义核心<span style="color: Gold;">价值</span>观 与核心价值体系的关系
@@ -805,7 +828,7 @@
     <li>本质</li>
     <li>中华优秀</li>
     <li>世界文明</li>
-    <li>时代</li>
+    <li><span style="color: gray;">时代</span></li>
     <li>马克思主义</li>
     <li>中国特色社会主义</li>
     <li>爱国主义</li>
@@ -932,7 +955,7 @@
     * <span style="color: gray;">道德</span> 作为一种社会意识，在阶级社会里不可避免地具有____；同时，不同阶级之间的<span style="color: gray;">道德</span> 或多或少有一些共同之处，反映着<span style="color: gray;">道德</span> 的____
     * <span style="color: gray;">道德</span> 有____（表现为<span style="color: gray;">道德</span> 的历史继承性和对社会发展具有能动的反作用）
   * <span style="color: gray;">道德</span> 是____的特殊<span style="color: LimeGreen;">调节</span>方式
-    * <span style="color: gray;">道德</span> 与<span style="color: tan;">法律</span> 规范、政治规范的不同之处：<span style="color: gray;">道德</span> 是一种____规范（即用善恶标准去评价，依靠社会舆论、传统习俗、内心信念来维持）
+    * <span style="color: gray;">道德</span> 与<span style="color: tan;">法律</span> 规范、政治规范的不同之处：<span style="color: gray;">道德</span> 是一种____规范（即用善恶标准去评价，依靠社会舆论、传统习俗、内心<span style="color: BurlyWood;">信念</span>来维持）
   * <span style="color: gray;">道德</span> 是一种____精神，在本质上是____的
 
 * <span style="color: gray;">道德</span> 的功能
@@ -1065,7 +1088,7 @@
     * 注重____关系，重视<span style="color: gray;">道德</span> 义务
       * 重视每个人在____中的地位及价值
       * 强调履行____
-    * 追求____境界，向往理想人格
+    * 追求____境界，向往<span style="color: Gold;">理想</span>人格
     * 强调____修养，注重<span style="color: gray;">道德</span> 践履
 
 ![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2657ba5fb87485bcc9adb8b85570176a78c8907eefc4dd43b5d6d038fdb73430.jpg)  
@@ -1084,13 +1107,13 @@
     * 是____与中国实践相结合的产物
     * 是中华民族宝贵的____财富
   * 内容
-    * 为实现____理想而奋斗
+    * 为实现____<span style="color: Gold;">理想</span>而奋斗
     * ____为人民服务
     * 始终把____放在首位
     * 树立社会新风，建立____人际关系
     * 修身自律，保持____
   * 当代价值
-    * 有利于加强和巩固____的理想信念
+    * 有利于加强和巩固____的<span style="color: Gold;"> ~ </span><span style="color: BurlyWood;"> ~ </span>
     * 有利于培育和践行____<span style="color: Gold;">价值</span>观 
     * 有利于引导人们树立正确的____观
     * 有利于培育良好的____风尚
@@ -1185,7 +1208,7 @@
 * ____是社会主义职业<span style="color: gray;">道德</span> 最高层次要求
 
 * 树立正确的择业观和创业观
-  * 树立崇高的____理想
+  * 树立崇高的____<span style="color: Gold;">理想</span>
   * 服从____需要
   * 做好充分的____准备
   * 培养创业的____和能力
@@ -1208,7 +1231,7 @@
   * 涵养高尚<span style="color: gray;">道德</span> 品格
     * 形成正确的____和判断
     * 激发正向的____和情感
-    * 强化坚定的____和信念
+    * 强化坚定的____和<span style="color: BurlyWood;">信念</span>
   * <span style="color: gray;">道德</span> 修养重在____
     * 掌握正确____
     * 向____学习
@@ -1370,7 +1393,7 @@
   * 重要意义
     * 回答____重大问题
     * 是重大____成果
-    * 是____中国化时代化最新成果
+    * 是____中国化<span style="color: gray;">时代</span>化最新成果
     * 是____重要组成
 
 * 习近平法治思想的主要内容
@@ -1397,10 +1420,10 @@
   <summary> </summary>
   <ul>
     <li>2020年11月</li>
-    <li>新时代全面依法治国</li>
+    <li>新<span style="color: gray;">时代</span>全面依法治国</li>
     <li>理论创新</li>
     <li>马克思主义法治理论</li>
-    <li>习近平新时代中国特色社会主义思想</li>
+    <li>习近平新<span style="color: gray;">时代</span>中国特色社会主义思想</li>
     <li>十一个坚持</li>
     <li>党对全面依法治国</li>
     <li>人民</li>

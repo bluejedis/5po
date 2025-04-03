@@ -477,16 +477,16 @@
 </ul>
 
 ![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/45c74ad84f7e8411192f76beffb88a1b5cb0a7e96ca38eb2c582318087752824.jpg)
-#  <span style="color: silver;">第三章 继承优良传统 弘扬中国精神
+#  <span style="color: silver;">第三章 继承优良<span style="color: LightSalmon;">传统</span> 弘扬<span style="color: gray;">中国精神</span>
 
 <ul>
 
-##  <span style="color: silver;">崇尚精神是中华民族的优秀传统  
+##  <span style="color: silver;">崇尚精神是中华民族的优秀<span style="color: LightSalmon;">传统</span>  ✓
 
 <ul>
 
-* 中华民族崇尚精神的优秀传统的表现
-  * 表现为对____与精神生活相互关系的独到理解
+* 中华民族崇尚精神的优秀<span style="color: LightSalmon;">传统</span>的表现
+  * 表现为对____ 与 精神生活 相互关系的独到理解
   * 表现为对____的不懈追求
   * 表现为对____的重视
 
@@ -505,11 +505,11 @@
 </details>
 </div>
 
-##  <span style="color: silver;">中国精神的丰富内涵  
+##  <span style="color: silver;"><span style="color: gray;">中国精神</span>的丰富内涵  ✓
 
 <ul>
 
-* 中国精神内涵的生动展现
+* <span style="color: gray;">中国精神</span>内涵的生动展现
   * 四个伟大精神
     * 伟大____精神
     * 伟大____精神
@@ -518,8 +518,8 @@
   * 传承中华民族的____精神基因
   * 汲取____的精神滋养
 
-* 中国共产党与中国精神
-  * 是中国精神的____继承者和坚定弘扬者
+* 中国共产党与<span style="color: gray;">中国精神</span>
+  * 是<span style="color: gray;">中国精神</span>的____继承者和坚定弘扬者
   * ____精神是党的精神之源
   * 形成了从____精神到脱贫攻坚精神等伟大精神谱系
 
@@ -533,8 +533,11 @@
     <li>奋斗</li>
     <li>团结</li>
     <li>梦想</li>
+    <br>
     <li>宝贵</li>
     <li><span style="color: gray;">时代</span></li>
+    <br>
+    
     <li>忠实</li>
     <li>伟大建党</li>
     <li>井冈山</li>
@@ -542,22 +545,22 @@
 </details>
 </div>
 
-##  <span style="color: silver;">实现中国梦必须弘扬中国精神  
+##  <span style="color: silver;">实现中国梦必须弘扬<span style="color: gray;">中国精神</span>  ✓
 
 <ul>
 
-* 弘扬中国精神的重要性
-  * 中国精神是____之魂
-    * 必须大力____中国精神
+* 弘扬<span style="color: gray;">中国精神</span>的重要性
+  * <span style="color: gray;">中国精神</span>是____之魂
+    * 必须大力____<span style="color: gray;">中国精神</span>
     * 弘扬____精神和<span style="color: gray;">时代</span>精神
     * 振奋全民族的"____"
-  * 中国精神是凝聚兴国强国的____
+  * <span style="color: gray;">中国精神</span>是凝聚兴国强国的____
     * 是凝聚中国力量的____
     * 是激发创新创造的____
     * 是推进复兴伟业的____
 
 * 民族精神和<span style="color: gray;">时代</span>精神的关系
-  * 都是中国精神的____组成部分
+  * 都是<span style="color: gray;">中国精神</span>的____组成部分
   * 都是中华民族发展的____
 
 * 弘扬以爱国主义为核心的民族精神
@@ -593,28 +596,38 @@
   <summary> </summary>
   <ul>
     <li>兴国强国</li>
+    <ul>
     <li>弘扬</li>
     <li>民族</li>
     <li>精气神</li>
+    </ul>
     <li>磅礴伟力</li>
+    <ul>
     <li>精神纽带</li>
     <li>精神动力</li>
     <li>精神支柱</li>
+    </ul>
     <li>重要</li>
     <li>精神支撑</li>
+    <br>
     <li>价值取向</li>
     <li>生存发展</li>
+    <br>
     <li>5000多年</li>
     <li>民族心、民族魂</li>
+    <br>
     <li>祖国</li>
     <li>个人</li>
     <li>文化</li>
+    <br>
     <li>河山</li>
     <li>骨肉同胞</li>
     <li>灿烂</li>
     <li>国家</li>
+    <br>
     <li>思想观念</li>
     <li>民族特质</li>
+    <br>
     <li>突破</li>
     <li>奋勇争先</li>
     <li>坚忍不拔</li>
@@ -622,7 +635,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">做新<span style="color: gray;">时代</span>的忠诚爱国者  
+##  <span style="color: silver;">做新<span style="color: gray;">时代</span>的忠诚爱国者  ✓
 
 <ul>
 
@@ -659,25 +672,35 @@
   <summary> </summary>
   <ul>
     <li>中华民族伟大复兴</li>
+    <br>
+    <ul>
     <li>爱国爱党爱社会主义</li>
+    <ul>
     <li>本质</li>
+    </ul>
     <li>祖国统一</li>
     <li>中华民族</li>
+    <ul>
     <li>滋养</li>
     <li>历史虚无</li>
+    </ul>
     <li>面向世界</li>
+    <ul>
     <li>主体性</li>
     <li>国家安全</li>
     <li>人类命运共同体</li>
+    </ul>
+    </ul>
     <li>具体</li>
     <li>不同</li>
+    <br>
     <li>全面建成</li>
     <li>中华民族伟大复兴</li>
   </ul>
 </details>
 </div>
 
-##  <span style="color: silver;">让改革创新成为青春远航的动力  
+##  <span style="color: silver;">让改革创新成为青春远航的动力  ✓
 
 <ul>
 
@@ -706,11 +729,14 @@
     <li>改革开放</li>
     <li>改革创新</li>
     <li>生力军</li>
+    <ul>
     <li>创新创造</li>
     <li>自觉意识</li>
     <li>能力本领</li>
+    </ul>
     <li>本分</li>
     <li>心之所系</li>
+    <br>
     <li>热爱祖国</li>
     <li><span style="color: gray;">道德</span> </li>
   </ul>
@@ -784,7 +810,7 @@
 * 社会主义核心<span style="color: Gold;">价值</span>观 的基本内容
   * 把涉及____的价值要求融为一体
   * 体现社会主义____要求
-  * 继承____传统文化
+  * 继承____<span style="color: LightSalmon;">传统</span>文化
   * 吸收____有益成果
   * 体现____精神
 
@@ -885,7 +911,7 @@
   <ul>
     <li>价值</li>
     <li>本质</li>
-    <li>中华优秀传统文化</li>
+    <li>中华优秀<span style="color: LightSalmon;">传统</span>文化</li>
     <li>世界文明</li>
     <li>人民至上</li>
     <li>历史主体</li>
@@ -955,7 +981,7 @@
     * <span style="color: gray;">道德</span> 作为一种社会意识，在阶级社会里不可避免地具有____；同时，不同阶级之间的<span style="color: gray;">道德</span> 或多或少有一些共同之处，反映着<span style="color: gray;">道德</span> 的____
     * <span style="color: gray;">道德</span> 有____（表现为<span style="color: gray;">道德</span> 的历史继承性和对社会发展具有能动的反作用）
   * <span style="color: gray;">道德</span> 是____的特殊<span style="color: LimeGreen;">调节</span>方式
-    * <span style="color: gray;">道德</span> 与<span style="color: tan;">法律</span> 规范、政治规范的不同之处：<span style="color: gray;">道德</span> 是一种____规范（即用善恶标准去评价，依靠社会舆论、传统习俗、内心<span style="color: BurlyWood;">信念</span>来维持）
+    * <span style="color: gray;">道德</span> 与<span style="color: tan;">法律</span> 规范、政治规范的不同之处：<span style="color: gray;">道德</span> 是一种____规范（即用善恶标准去评价，依靠社会舆论、<span style="color: LightSalmon;">传统</span>习俗、内心<span style="color: BurlyWood;">信念</span>来维持）
   * <span style="color: gray;">道德</span> 是一种____精神，在本质上是____的
 
 * <span style="color: gray;">道德</span> 的功能
@@ -1073,7 +1099,7 @@
 
 <ul>
 
-* 中华传统美德
+* 中华<span style="color: LightSalmon;">传统</span>美德
   * 重要性
     * 是人类文明发展的重要____财富
     * 是____的精髓
@@ -1095,14 +1121,14 @@
 
 ![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a54345d135815d8eb82dac183e0278834d27e3a423e0ef4043710ed01c81fb00.jpg)  
 
-* 中华传统美德的创造性转化和创新性发展
-  * 加强对中华传统美德的____和阐发
-  * 用中华传统美德滋养____建设
+* 中华<span style="color: LightSalmon;">传统</span>美德的创造性转化和创新性发展
+  * 加强对中华<span style="color: LightSalmon;">传统</span>美德的____和阐发
+  * 用中华<span style="color: LightSalmon;">传统</span>美德滋养____建设
   * 反对"____"和"虚无论"两种错误思潮
 
 * 发扬中国革命<span style="color: gray;">道德</span> 
   * 定位
-    * 是对中华传统美德的____和发展
+    * 是对中华<span style="color: LightSalmon;">传统</span>美德的____和发展
     * 是____在革命建设改革中形成的优秀<span style="color: gray;">道德</span> 
     * 是____与中国实践相结合的产物
     * 是中华民族宝贵的____财富
@@ -1137,7 +1163,7 @@
     <li>公义</li>
     <li>公私</li>
     <li>仁爱</li>
-    <li>优良传统</li>
+    <li>优良<span style="color: LightSalmon;">传统</span></li>
     <li>人伦</li>
     <li>人伦关系</li>
     <li>应尽义务</li>

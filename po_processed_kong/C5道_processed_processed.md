@@ -537,10 +537,10 @@
     <li>宝贵</li>
     <li><span style="color: gray;">时代</span></li>
     <br>
-    
     <li>忠实</li>
     <li>伟大建党</li>
     <li>井冈山</li>
+  
   </ul>
 </details>
 </div>
@@ -749,7 +749,7 @@
 
 <ul>
 
-##  <span style="color: silver;"><span style="color: Gold;">价值</span>观 与核心<span style="color: Gold;">价值</span>观   
+##  <span style="color: silver;"><span style="color: Gold;">价值</span>观 与核心<span style="color: Gold;">价值</span>观   ✓
 
 <ul>
 
@@ -787,17 +787,22 @@
   <ul>
     <li>立场</li>
     <li>基本观点</li>
+    <br>
     <li>规范</li>
+    <br>
     <li><span style="color: gray;">时代</span></li>
     <li>民族</li>
     <li>阶级</li>
+    <br>
     <li>集中</li>
     <li>主导</li>
     <li>阶级</li>
+    <br>
     <li>精神</li>
     <li>是非曲直</li>
     <li>稳定器</li>
     <li>和谐稳定</li>
+    <br>
     <li>核心<span style="color: Gold;">价值</span>观 </li>
   </ul>
 </details>
@@ -855,23 +860,29 @@
     <li>中华优秀</li>
     <li>世界文明</li>
     <li><span style="color: gray;">时代</span></li>
+    <br>
     <li>马克思主义</li>
     <li>中国特色社会主义</li>
     <li>爱国主义</li>
     <li>改革创新</li>
     <li>荣辱</li>
+    <br>
     <li>精神</li>
     <li>高度凝练</li>
-    <li>意识形态</li>
-    <li>思想和精神</li>
-    <li>全面建成社会主义现代化强国</li>
+    <ul>
+      <li>意识形态</li>
+      <li>思想和精神</li>
+      <li>全面建成社会主义现代化强国</li>
+    </ul>
     <li>当代中国</li>
     <li>中国特色社会主义</li>
     <li>价值</li>
     <li>发展进步</li>
-    <li>价值</li>
-    <li>文化软实力</li>
-    <li>团结奋进</li>
+    <ul>
+      <li>价值</li>
+      <li>文化软实力</li>
+      <li>团结奋进</li>
+    </ul>
     <li>社会意识</li>
     <li>中华民族伟大复兴</li>
   </ul>
@@ -910,19 +921,27 @@
   <summary> </summary>
   <ul>
     <li>价值</li>
-    <li>本质</li>
-    <li>中华优秀<span style="color: LightSalmon;">传统</span>文化</li>
-    <li>世界文明</li>
+    <ul>
+      <li>本质</li>
+      <li>中华优秀<span style="color: LightSalmon;">传统</span>文化</li>
+      <li>世界文明</li>
+    </ul>
     <li>人民至上</li>
-    <li>历史主体</li>
-    <li>人民</li>
+    <ul>
+      <li>历史主体</li>
+      <li>人民</li>
+    </ul>
     <li>道义</li>
-    <li>真实性</li>
-    <li>中国特色社会主义</li>
-    <li>资本主义</li>
-    <li>政治</li>
-    <li>虚伪</li>
-    <li>资产阶级</li>
+    <ul>
+      <li>真实性</li>
+      <li>中国特色社会主义</li>
+    </ul>
+    <ul>
+      <li>资本主义</li>
+      <li>政治</li>
+      <li>虚伪</li>
+      <li>资产阶级</li>
+    </ul>
   </ul>
 </details>
 </div>
@@ -937,9 +956,9 @@
 * 核心<span style="color: Gold;">价值</span>观 的实践要求
   * ____落小落实
   * 具体实践方向
-    * ____
+    * ____，
     * 修德
-    * ____
+    * ____，
     * 笃实
   * 最终目标
     * 使核心<span style="color: Gold;">价值</span>观 成为____的基本遵循
@@ -951,10 +970,15 @@
   <summary> </summary>
   <ul>
     <li>扣子</li>
+    <br>
     <li>落细</li>
-    <li>勤学</li>
-    <li>明辨</li>
-    <li>一言一行</li>
+    <ul>
+      <li>勤学</li>
+      <li>明辨</li>
+    </ul>
+    <ul>
+      <li>一言一行</li>
+    </ul>
   </ul>
 </details>
 </div>

@@ -808,7 +808,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">社会主义核心<span style="color: Gold;">价值</span>观   
+##  <span style="color: silver;">社会主义核心<span style="color: Gold;">价值</span>观 ✓
 
 <ul>
 
@@ -889,7 +889,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">社会主义核心<span style="color: Gold;">价值</span>观 的显著特征
+##  <span style="color: silver;">社会主义核心<span style="color: Gold;">价值</span>观 的显著特征 ✓
 
 <ul>
 
@@ -946,7 +946,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">积极践行社会主义核心<span style="color: Gold;">价值</span>观 
+##  <span style="color: silver;">积极践行社会主义核心<span style="color: Gold;">价值</span>观 ✓
 
 <ul>
 
@@ -989,7 +989,7 @@
 
 <ul>
 
-##  <span style="color: silver;">坚持马克思主义<span style="color: gray;">道德</span> 观
+##  <span style="color: silver;">坚持马克思主义<span style="color: gray;">道德</span> 观✓
 
 <ul>
 
@@ -1041,24 +1041,37 @@
     <li>劳动</li>
     <li>社会关系</li>
     <li>自我意识</li>
+    <ul>
     <li>意识</li>
+    </ul>
+    <br>
     <li>社会经济关系</li>
+    <ul>
     <li>社会经济关系</li>
-    <li>阶级性</li>
-    <li>普遍性</li>
+    <li>阶级性；普遍性</li>
     <li>相对独立性</li>
+    </ul>
     <li>社会利益关系</li>
+    <ul>
     <li>非强制性</li>
-    <li>实践</li>
-    <li>知行合一</li>
+    </ul>
+    <li>实践； 知行合一</li>
+    <br>
+    <ul>
     <li>认识</li>
     <li>规范</li>
     <li><span style="color: LimeGreen;">调节</span></li>
+    </ul>
+    <br>
     <li>社会稳定</li>
     <li>客观世界</li>
+    <br>
     <li>社会发展</li>
+    <ul>
     <li>经济基础</li>
     <li>阶级利益</li>
+    </ul>
+    <br>
     <li>先进生产力</li>
     <li>进步阶级</li>
     <li>推动</li>
@@ -1067,7 +1080,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">社会主义<span style="color: gray;">道德</span> 的核心和原则
+##  <span style="color: silver;">社会主义<span style="color: gray;">道德</span> 的核心和原则✓
 
 <ul>
 
@@ -1099,27 +1112,41 @@
 <details>
   <summary> </summary>
   <ul>
+    <ul>
     <li>社会主义经济基础</li>
     <li>优秀<span style="color: gray;">道德</span> 资源</li>
     <li>片面性</li>
+    </ul>
+    <br>
     <li>为人民服务</li>
+    <ul>
     <li>核心</li>
+    </ul>
     <li>本质</li>
     <li>先进性</li>
+    <ul>
     <li>显著</li>
+    </ul>
+    <br>
     <li>集体主义</li>
+    <br>
     <li>国家利益、社会整体利益和个人利益</li>
+    <ul>
     <li>辩证</li>
     <li>个人利益</li>
     <li>正当利益</li>
+    </ul>
+    <br>
+    <ul>
     <li>无私</li>
     <li>先人后己</li>
     <li>遵纪守法</li>
+    </ul>
   </ul>
 </details>
 </div>
 
-##  <span style="color: silver;">吸收借鉴优秀<span style="color: gray;">道德</span> 成果
+##  <span style="color: silver;">吸收借鉴优秀<span style="color: gray;">道德</span> 成果✓
 
 <ul>
 
@@ -1183,32 +1210,45 @@
     <li>中华文化</li>
     <li>思想<span style="color: gray;">道德</span> </li>
     <li>社会主义<span style="color: gray;">道德</span> </li>
+    <br>
     <li>整体</li>
+    <ul>
     <li>公义</li>
     <li>公私</li>
+    </ul>
     <li>仁爱</li>
+    <ul>
     <li>优良<span style="color: LightSalmon;">传统</span></li>
+    </ul>
     <li>人伦</li>
+    <ul>
     <li>人伦关系</li>
     <li>应尽义务</li>
+    </ul>
     <li>精神</li>
     <li><span style="color: gray;">道德</span> </li>
+    <br>
+    <br>
     <li>挖掘</li>
     <li>社会主义<span style="color: gray;">道德</span> </li>
     <li>复古论</li>
+    <br>
     <li>延续</li>
     <li>中国共产党人、人民军队、先进分子和人民群众</li>
     <li>马克思主义</li>
     <li><span style="color: gray;">道德</span> </li>
+    <br>
     <li>社会主义和共产主义</li>
     <li>全心全意</li>
     <li>革命利益</li>
     <li>新型</li>
     <li>节操</li>
+    <br>
     <li>社会主义和共产主义</li>
     <li>社会主义核心</li>
     <li><span style="color: gray;">道德</span> </li>
     <li>社会<span style="color: gray;">道德</span> </li>
+    <br>
     <li>态度</li>
     <li>积极</li>
     <li>取舍</li>
@@ -1216,7 +1256,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">把社会公德、职业<span style="color: gray;">道德</span> 、家庭美德、个人品德建设作为着力点
+##  <span style="color: silver;">把社会公德、职业<span style="color: gray;">道德</span> 、家庭美德、个人品德建设作为着力点✓
 
 <ul>
 
@@ -1302,51 +1342,73 @@
     <li>开放</li>
     <li>复杂</li>
     <li>多样</li>
+    <br>
     <li>公共秩序</li>
+    <ul>
     <li>社会生产活动</li>
     <li>生活质量</li>
     <li>社会文明</li>
+    </ul>
+    <br>
     <li>文明</li>
     <li>助人</li>
     <li>公物</li>
     <li>保护</li>
     <li>遵纪</li>
+    <br>
     <li><span style="color: gray;">道德</span> </li>
     <li>网络</li>
     <li>自律</li>
     <li><span style="color: gray;">道德</span> </li>
+    <br>
     <li>光荣</li>
     <li>奋斗</li>
+    <br>
     <li>爱岗</li>
     <li>诚实</li>
     <li>公道</li>
     <li>服务</li>
     <li>奉献</li>
+    <br>
+    <br>
+    <br>
     <li>诚实守信</li>
     <li>奉献社会</li>
+    <br>
     <li>职业</li>
     <li>社会发展</li>
     <li>择业</li>
     <li>勇气</li>
+    <br>
     <li>家教</li>
+    <ul>
     <li>社会安定</li>
     <li>品德</li>
     <li>社会风气</li>
+    </ul>
+    <br>
+    <ul>
     <li>尊老</li>
     <li>男女</li>
     <li>夫妻</li>
     <li>持家</li>
     <li>互助</li>
+    </ul>
+    <br>
     <li>基础性</li>
     <li>心理状态</li>
+    <ul>
     <li><span style="color: gray;">道德</span> 认知</li>
     <li><span style="color: gray;">道德</span> 认同</li>
     <li><span style="color: gray;">道德</span> 意志</li>
+    </ul>
     <li>践行</li>
+    <ul>
     <li>方法</li>
     <li><span style="color: gray;">道德</span> 模范</li>
     <li>志愿服务</li>
     <li>社会风尚</li>
+    </ul>
   </ul>
 </details>
 </div>

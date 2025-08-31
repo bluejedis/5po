@@ -1419,7 +1419,7 @@
 
 <ul>
 
-##  <span style="color: silver;">社会主义<span style="color: tan;">法律</span> 的特征和运行  
+##  <span style="color: silver;">社会主义<span style="color: tan;">法律</span> 的特征和运行  ✓
 
 <ul>
 
@@ -1469,26 +1469,40 @@
 <details>
   <summary> </summary>
   <ul>
+    <ul>
     <li>国家强制力</li>
     <li>统治阶级</li>
+    </ul>
+    <br>
+    <ul>
     <li>国家强制性</li>
     <li>国家意志</li>
     <li>物质资料生产方式</li>
+    <br>
     <li>党的主张和人民意志</li>
+    <ul>
     <li>阶级性</li>
+    </ul>
     <li>科学性</li>
     <li>中国特色社会主义建设</li>
+    <br>
+    <ul>
     <li>规范性<span style="color: tan;">法律</span> 文件</li>
     <li>公正、公平、公开</li>
     <li>提出</li>
+    <br>
     <li>行政机关</li>
     <li>合法</li>
     <li>中央和地方各级政府</li>
+    <br>
     <li>审判</li>
     <li>合法</li>
     <li>司法公正</li>
+    <br>
     <li>权力或权利</li>
     <li>实施和实现</li>
+    <br>
+    </ul>
     <li>创制、实施到实现</li>
     <li>权利义务</li>
     <li><span style="color: tan;">法律</span> 规范</li>
@@ -1496,7 +1510,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">全面依法治国的根本遵循习近平法治思想  
+##  <span style="color: silver;">全面依法治国的根本遵循习近平法治思想  ✓
 
 <ul>
 
@@ -1532,11 +1546,16 @@
   <summary> </summary>
   <ul>
     <li>2020年11月</li>
+    <br>
+    <ul>
     <li>新<span style="color: gray;">时代</span>全面依法治国</li>
     <li>理论创新</li>
     <li>马克思主义法治理论</li>
     <li>习近平新<span style="color: gray;">时代</span>中国特色社会主义思想</li>
+    </ul>
+    <br>
     <li>十一个坚持</li>
+    <ul>
     <li>党对全面依法治国</li>
     <li>人民</li>
     <li>中国特色社会主义</li>
@@ -1548,13 +1567,14 @@
     <li>国内法治和涉外法治</li>
     <li>德才兼备</li>
     <li>领导干部</li>
+    <br>
     <li>各个方面</li>
     <li>方向性、根本性、全局性</li>
   </ul>
 </details>
 </div>
 
-##  <span style="color: silver;">坚持走中国特色社会主义法治道路
+##  <span style="color: silver;">坚持走中国特色社会主义法治道路 ✓
 
 <ul>
 
@@ -1591,31 +1611,42 @@
   <summary> </summary>
   <ul>
     <li>法治领域</li>
-    <li>党的领导</li>
-    <li>中国特色社会主义法治理论</li>
+    <li>党的领导 中国特色社会主义法治理论</li>
+    <br>
     <li>必然</li>
     <li>社会主义国家性质</li>
     <li>基本国情</li>
+    <br>
     <li>中国共产党</li>
+    <ul>
     <li>根本</li>
     <li>本质</li>
     <li>领导立法</li>
+    </ul>
+    <br>
     <li>人民</li>
+    <ul>
     <li>广泛、最深厚</li>
+    </ul>
+    <br>
     <li><span style="color: tan;">法律</span> 面前</li>
+    <ul>
     <li>基本</li>
     <li>违法必究</li>
     <li>主人翁</li>
+    </ul>
     <li>依法治国和以德治国</li>
+    <ul>
     <li>法治</li>
     <li>法治建设</li>
     <li><span style="color: gray;">道德</span> </li>
+    </ul>
     <li>中国实际</li>
   </ul>
 </details>
 </div>
 
-##  <span style="color: silver;">建设法治中国
+##  <span style="color: silver;">建设法治中国✓
 
 <ul>
 
@@ -1652,11 +1683,15 @@
     <li>法治监督</li>
     <li>法治保障</li>
     <li>党内法规</li>
+    <br>
     <li>依法治国、依法执政、依法行政</li>
     <li>法治国家、法治政府、法治社会</li>
+    <ul>
     <li>目标</li>
     <li>主体</li>
     <li>基础</li>
+    </ul>
+    <br>
     <li>科学立法</li>
     <li>严格执法</li>
     <li>公正司法</li>
@@ -1665,7 +1700,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">维护宪法权威
+##  <span style="color: silver;">维护宪法权威✓
 
 <ul>
 
@@ -1702,19 +1737,25 @@
   <summary> </summary>
   <ul>
     <li>宪法至上</li>
+    <ul>
     <li>作用、效力和内容</li>
+    <br>
     <li>国家根本法</li>
     <li><span style="color: tan;">法律</span> 法规</li>
     <li>根本制度</li>
     <li>个人发展</li>
+    </ul>
+    <br>
     <li>党的领导</li>
     <li>人民当家作主</li>
     <li>保障人权</li>
     <li>法治</li>
     <li>民主集中制</li>
+    <br>
     <li>依宪</li>
     <li>依法</li>
     <li>严格</li>
+    <br>
     <li>人大</li>
     <li>解释</li>
     <li>备案</li>
@@ -1723,7 +1764,7 @@
 </details>
 </div>
 
-##  <span style="color: silver;">培养社会主义法治思维
+##  <span style="color: silver;">培养社会主义法治思维✓
 
 <ul>
 
@@ -1760,28 +1801,35 @@
   <summary> </summary>
   <ul>
     <li><span style="color: tan;">法律</span> </li>
+    <ul>
     <li>正当性</li>
     <li>规范</li>
     <li>逻辑</li>
     <li>科学</li>
+    </ul>
+    <br>
     <li>效力</li>
     <li>普遍</li>
+    <br>
     <li><span style="color: tan;">法律</span> </li>
     <li>有权必有责</li>
+    <br>
     <li>主体</li>
     <li>起点</li>
     <li><span style="color: tan;">法律</span> 面前</li>
     <li>司法</li>
+    <br>
     <li>宪法</li>
     <li>立法</li>
     <li>行政</li>
     <li>司法</li>
+    <br>
     <li>合法</li>
   </ul>
 </details>
 </div>
 
-##  <span style="color: silver;">依法行使权利与履行义务
+##  <span style="color: silver;">依法行使权利与履行义务✓
 
 <ul>
 
@@ -1875,55 +1923,80 @@
   <summary> </summary>
   <ul>
     <li>物质生活条件</li>
+    <br>
     <li>社会物质生活条件</li>
     <li>社会制度和国家<span style="color: tan;">法律</span> </li>
     <li><span style="color: tan;">法律</span> 维护保障</li>
     <li>不择手段地</li>
+    <br>
     <li>历史</li>
+    <br>
     <li>作为</li>
     <li>不作为</li>
+    <br>
     <li>不可分割</li>
+    <ul>
     <li>权利主体</li>
     <li>义务履行</li>
     <li>复合性</li>
+    </ul>
     <li>有利</li>
+    <br>
+    <ul>
     <li>人民主权</li>
     <li>选举</li>
+    <br>
     <li>信仰</li>
+    <br>
     <li>生命健康</li>
     <li>自由</li>
     <li>人格</li>
     <li>安全</li>
     <li>通信</li>
+    <br>
     <li>私有</li>
     <li>继承</li>
+    <br>
     <li>劳动</li>
     <li>休息</li>
     <li>保障</li>
     <li>帮助</li>
+    <br>
     <li>受教育</li>
     <li>文化活动</li>
+    </ul>
+    <br>
+    <br>
     <li>正当性</li>
     <li>必要</li>
     <li>法定性</li>
     <li>正当</li>
+    <br>
     <li>国家统一</li>
     <li>宪法</li>
     <li>安全</li>
     <li>服兵役</li>
     <li>纳税</li>
+    <br>
+    <br>
     <li><span style="color: tan;">法律</span> </li>
     <li>法定义务</li>
     <li><span style="color: tan;">法律</span> 责任</li>
+    <ul>
+    <br>
     <li>拥护</li>
     <li>信仰</li>
+    <br>
     <li><span style="color: tan;">法律</span> 知识</li>
     <li>法治实践</li>
+    <br>
     <li>规则</li>
     <li>守法守规</li>
     <li><span style="color: tan;">法律</span> </li>
+    <br>
     <li>内化</li>
     <li>自身权利</li>
+    </ul>
   </ul>
 </details>
 </div>

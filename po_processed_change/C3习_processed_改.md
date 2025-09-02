@@ -1685,9 +1685,9 @@
     * 包容性和和平性
     * 对民族的深远影响
 
-![]`(https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3895ae2384bade7d7e1b4f0a04f4a2338241a9f953890d3ac1f781e227666f5e.jpg)
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3895ae2384bade7d7e1b4f0a04f4a2338241a9f953890d3ac1f781e227666f5e.jpg)
 
-![]`(https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2e5bf52e302371cb40dcfc443a58bc5478f693d514eedb50c4d59942e75dfe06.jpg)
+![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2e5bf52e302371cb40dcfc443a58bc5478f693d514eedb50c4d59942e75dfe06.jpg)
 
 * 推动传统文化发展
   * 创造性转化：赋予新时代内涵和现代表达

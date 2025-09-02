@@ -1,6 +1,6 @@
  <span style="color: silver;">
  
-#  <span style="color: silver;">第一章进入近代后中华民族的磨难与抗争  
+#  <span style="color: silver;">第一章进入近代后中华民族的磨难与抗争  ✓
 
 <ul>
 
@@ -265,11 +265,11 @@
 
 </ul>
 
-#  <span style="color: silver;">第二章不同社会力量对国家出路的早期探索  
+#  <span style="color: silver;">第二章不同社会力量对国家出路的早期探索  ✓
 
 <ul>
 
-##  <span style="color: silver;">太平天国运动的起落（1851一1864）  
+##  <span style="color: silver;">太平天国运动的起落（1851一1864）  ✓
 
 <ul>
 
@@ -281,7 +281,7 @@
 
 - 《天朝田亩制度》
    - 平均分配____方案
-      - 建立理想社会：“____，____，____，____”
+      - 建立理想社会：“____ ，____ ，____ ，____”
    - 社会改革方案
       - 解决____问题，否定____所有制
    - 农民小生产者眼界
@@ -293,7 +293,7 @@
 
 - 《资政新篇》
    - 提倡____雇佣劳动制
-      - “____”，穷人“____”
+      - “____ ”，穷人“____”
    - ____色彩的方案
       - 中国近代第一个系统发展____方案
    - 重要意义
@@ -338,68 +338,90 @@
   <summary> </summary>
   <ul>
     <li>赋税</li>
+    <ul>
     <li>负担</li>
+    </ul>
     <li>自然</li>
-    <li>农业</li>
-    <li>家庭手工业</li>
+    <ul>
+    <li>农业 家庭手工业</li>
+    </ul>
+    <br>
     <li>土地</li>
-    <li>有田同耕</li>
-    <li>有饭同食</li>
-    <li>有衣同穿</li>
-    <li>有钱同使</li>
-    <li>土地</li>
-    <li>封建土地</li>
+    <ul>
+    <li>有田同耕 有饭同食 有衣同穿 有钱同使</li>
+    </ul>
+    <br>
+    <li>土地 ； 封建土地</li>
+    <br>
     <li>狭隘</li>
     <li>空想</li>
     <li>土地</li>
+    <br>
     <li>资本主义</li>
-    <li>准富者请人雇工</li>
-    <li>宜令作工，以受所值</li>
+    <ul>
+    <li>准富者请人雇工；宜令作工，以受所值</li>
+    </ul>
     <li>资本主义</li>
+    <ul>
     <li>资本主义</li>
-    <li>向西方学习</li>
-    <li>近代化</li>
+    </ul>
+    <li>向西方学习；>近代化</li>
+    <br>
     <li>封建</li>
-    <li>封建统治</li>
-    <li>清政府</li>
+    <ul>
+    <li>封建统治；清政府</li>
+    </ul>
     <li>最高峰</li>
+    <ul>
     <li>最高峰</li>
+    </ul>
     <li>儒家</li>
-    <li>孔子</li>
-    <li>儒家经典</li>
-    <li>封建</li>
+    <ul>
+    <li>孔子 儒家经典；封建</li>
+    </ul>
     <li>外国侵略</li>
+    <ul>
     <li>外国侵略</li>
+    </ul>
     <li>解放</li>
-    <li>解放</li>
-    <li>时间最长</li>
-    <li>规模最大</li>
-    <li>影响最深</li>
+    <ul>
+    <li>解放；时间最长 规模最大 影响最深</li>
+    </ul>
+    <br>
     <li>向外国学习</li>
     <li>没有</li>
+    <br>
     <li>根本</li>
-    <li>农民</li>
-    <li>阶级</li>
+    <ul>
+    <li>农民 ； 阶级</li>
     <li>科学</li>
     <li>先进</li>
-    <li>完整</li>
-    <li>正确</li>
+    <li>完整 正确</li>
+    </ul>
+    <li>领导集团</li>
+    <ul>
     <li>领导集团</li>
     <li>领导集团</li>
-    <li>领导集团</li>
+    </ul>
     <li>军事战略</li>
+    <ul>
     <li>军事战略</li>
+    </ul>
     <li>儒学</li>
+    <ul>
     <li>儒学</li>
+    </ul>
     <li>认识</li>
+    <ul>
     <li>西方资本主义侵略者</li>
+    </ul>
   </ul>
 </details>
 </div>
 
 </ul>
 
-##  <span style="color: silver;">洋务运动的兴衰  
+##  <span style="color: silver;">洋务运动的兴衰  ✓
 
 <ul>
 
@@ -417,7 +439,7 @@
     * 非推动独立的____发展
 
 * 指导思想
-  * "____为体，____为用"("____")
+  * "____ 为体，____ 为用"("____")
     * 以中国____维护统治秩序为主体
     * 以西方____为辅助
     * 前者____后者
@@ -458,54 +480,62 @@
   <summary> </summary>
   <ul>
     <li>第二次鸦片战争</li>
-    <li>太平天国起义</li>
-    <li>捻军起义</li>
+    <li>太平天国起义；捻军起义</li>
+    <br>
     <li>洋枪洋炮</li>
-    <li>海防</li>
-    <li>边防</li>
-    <li>政治</li>
-    <li>经济</li>
-    <li>军事</li>
+    <li>海防 边防</li>
+    <li>政治 经济 军事</li>
+    <br>
     <li>封建</li>
     <li>资本主义</li>
-    <li>中学</li>
-    <li>西学</li>
-    <li>中体西用</li>
+    <br>
+    <li>中学；西学；中体西用</li>
+    <ul>
     <li>封建伦理纲常</li>
     <li>近代工业和技术</li>
     <li>支配</li>
+    </ul>
+    <br>
     <li>自强</li>
     <li>求富</li>
+    <br>
     <li>近代</li>
+    <ul>
     <li>军用</li>
     <li>民用</li>
     <li>官督商办</li>
     <li>资本主义</li>
+    </ul>
     <li>海陆军</li>
+    <ul>
     <li>北洋水师</li>
-    <li>新式学堂</li>
-    <li>留学生</li>
+    </ul>
+    <li>新式学堂；留学生</li>
+    <ul>
     <li>翻译</li>
     <li>工艺</li>
     <li>军事</li>
-    <li>工业</li>
-    <li>民族资本主义</li>
+    </ul>
+    <br>
+    <li>工业；民族资本主义</li>
     <li>近代</li>
     <li>近代自然科学</li>
-    <li>社会风气</li>
-    <li>价值观念</li>
+    <li>社会风气 价值观念</li>
     <li>工商业者</li>
+    <br>
     <li>甲午战争</li>
+    <ul>
     <li>封建</li>
     <li>依赖</li>
     <li>腐朽</li>
+    </ul>
   </ul>
 </details>
 </div>
 
 </ul>
 
-##  <span style="color: silver;">维新运动的兴起和天折  
+##  <span style="color: silver;">维新运动的兴起和天折  ✓
 
 <ul>
 
@@ -553,45 +583,40 @@
   <summary> </summary>
   <ul>
     <li>民族资本主义</li>
-    <li>甲午战争</li>
-    <li>民族危机</li>
-    <li>觉醒</li>
+    <li>甲午战争；民族危机 觉醒</li>
     <li>向西方学习</li>
-    <li>资本主义政治制度</li>
-    <li>思想文化</li>
+    <ul>
+    <li>资本主义政治制度 思想文化</li>
+    </ul>
     <li>改良</li>
+    <ul>
     <li>上书</li>
     <li>著书</li>
     <li>变法</li>
-    <li>学会</li>
-    <li>学堂</li>
-    <li>报纸</li>
+    <li>学会 学堂 报纸</li>
+    </ul>
+    <br>
     <li>变法</li>
-    <li>民权</li>
-    <li>议院</li>
-    <li>君主立宪</li>
-    <li>废</li>
-    <li>科举</li>
-    <li>西学</li>
-    <li>资产阶级</li>
-    <li>封建主义</li>
-    <li>开阔</li>
-    <li>解放</li>
-    <li>政治</li>
+    <li>民权 议院  君主立宪</li>
+    <li>废；科举；西学</li>
+    <li>资产阶级；封建主义</li>
+    <li>开阔 解放 政治</li>
+    <br>
     <li>资产阶级</li>
     <li>封建制度</li>
     <li>温和</li>
-    <li>爱国救亡</li>
-    <li>民族</li>
-    <li>资产阶级</li>
-    <li>封建</li>
+    <br>
+    <li>爱国救亡； 民族</li>
+    <li>资产阶级；封建</li>
     <li>思想</li>
-    <li>维新派</li>
-    <li>守旧势力</li>
+    <br>
+    <li>维新派；守旧势力</li>
     <li>民族资产阶级</li>
+    <ul>
     <li>封建主义</li>
     <li>帝国主义</li>
     <li>人民群众</li>
+    </ul>
   </ul>
 </details>
 </div>
@@ -985,7 +1010,7 @@ xjp论：
 
 </ul>
 
-#  <span style="color: silver;">第四章中国共产党成立和中国革命新局面  
+#  <span style="color: silver;">第四章中国<span style="border: 1px solid black; padding: 5px; display: inline-block;">共产党</span>成立和中国革命新局面  
 
 <ul>
 
@@ -1935,11 +1960,9 @@ xjp论：
      3. ____（1935年12月）：提出建立广泛的____
      4. ____（1936年
 
-以下是按照您的要求对提供的Markdown文档进行挖空处理后的结果，包含Markdown和HTML折叠块格式。挖空部分针对定义中的关键词、公式定理和关键步骤，答案在每个次级标题下以折叠块形式列出。内容结构保持不变，所有内容完整输出。
 
----
 
-#  <span style="color: silver;">中国共产党争取和平民主的斗争
+#  <span style="color: silver;">第七章 中国共产党争取和平民主的斗争
 
 <ul>
 
@@ -2770,7 +2793,7 @@ xjp论：
 
 </ul>
 
-#  <span style="color: silver;">第八章 中华人民共和国的成立与中国社会主义建设道路的探索
+#  <span style="color: silver;">第八章 中华人民共和国的<span style="border-bottom: 3px dotted black;">成立</span>与中国社会主义建设道路的探索
 
 <ul>
 
